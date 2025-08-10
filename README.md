@@ -1,7 +1,11 @@
 # Hi there, I'm Gunjan Jaswaal 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/assets/header-image.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%">
+  <h1 style="border-bottom: 1px solid #eaecef; color: #0366d6; padding-bottom: 10px;">
+    Product Architect & Innovation Catalyst
+  </h1>
+  <!-- Replace this comment with your header image once created -->
+  <!-- <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/assets/header-image.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%"> -->
 </div>
 
 <p align="center">
