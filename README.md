@@ -108,14 +108,6 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
   </tr>
 </table>
 
-### Document Download Manager Features
-
-- 📝 Lead generation through gated content downloads
-- 📊 Track and export download statistics
-- 🔄 Mailchimp integration for email marketing
-- 🎨 Customizable forms and download buttons
-- 🚀 Free and Premium versions available
-
 ## 🎓 Education & Certifications
 
 - **Master of Computer Applications** | Bangalore University
