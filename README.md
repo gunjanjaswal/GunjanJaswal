@@ -118,25 +118,6 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 - 🏅 Google AI Essentials (Coursera, Oct 2024)
 - 🏅 Google Project Management Professional Certificate v2 (Coursera, Oct 2024)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjanjaswal&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanjaswal&theme=radical" alt="GitHub Streak" height="170">
-</div>
-
-## 📂 Latest Repositories
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically populated with your latest repositories -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gunjanjaswal&repo=wordpress-to-ghost-splitter&theme=radical)](https://github.com/gunjanjaswal/wordpress-to-ghost-splitter)
-
-</div>
-
 ## 💖 Support My Work
 
 If you find my projects helpful and would like to support my work:
