@@ -1,0 +1,23 @@
+name: Update README with Latest Repositories
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    name: Update README with latest repositories
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "Updated README with latest repositories"
+          feed_list: "https://github.com/gunjanjaswal.atom"
+          max_post_count: 5
+          template: "[$title]($url)"
+          filter_comments: false
+          disable_sort: false
+          content_type: "repo"
