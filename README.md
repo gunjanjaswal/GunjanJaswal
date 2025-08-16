@@ -94,10 +94,10 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
       <p>Lead generation tool for gated content downloads with form builder</p>
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Coming_Soon-New_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Coming Soon">
+      <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
+        <img src="https://img.shields.io/badge/Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
       </a>
-      <p>More plugins coming to the WordPress repository</p>
+      <p>Add emoji reactions to WordPress posts and pages</p>
     </td>
     <td align="center">
       <a href="#">
