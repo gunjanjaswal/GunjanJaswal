@@ -61,11 +61,17 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 ## 🛠️ Recent Projects
 
 <!--START_SECTION:recent-repos-->
+- 🚀 **[ElementorTimeFix12hours](https://github.com/gunjanjaswal/ElementorTimeFix12hours)** - A WordPress plugin that transforms Elementor form time fields from 24-hour to 12-hour AM/PM format, improving user experience and email readability.
+- 🚀 **[WordPress Emoji Reactions](https://github.com/gunjanjaswal/Wordpress-Emoji-Reactions)** - Add colorful emoji reactions to your WordPress posts and pages, similar to Facebook reactions.
+- 🚀 **[Google News Sitemap WordPress](https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress)** - A lightweight WordPress plugin that generates a Google News sitemap compatible with all major SEO plugins. Features dual URL support, publication name/language fallbacks, and direct URL interception for maximum compatibility. Perfect for news sites wanting to get indexed in Google News.
 <!--END_SECTION:recent-repos-->
 
 ## 📝 Latest Commits
 
 <!--START_SECTION:latest-commits-->
+- 💻 **[Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/2e72cf947896857d4723557aea34fe04f7c86b24)** - Updated Read me
+- 💻 **[Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/5a4270610f53e5893f758cbd663b210ec7a6ac7a)** - Update README.md
+- 💻 **[Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/bd139006d3c83c7c95630f00ccd1daf78168b602)** - Updated Code
 <!--END_SECTION:latest-commits-->
 
 ## 🔌 WordPress Plugins
