@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Update README with latest repositories
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Updated README with latest repositories"
-          feed_list: "https://github.com/gunjanjaswal.atom"
-          max_post_count: 5
-          template: "[$title]($url)"
-          filter_comments: false
-          disable_sort: false
+          COMMIT_MSG: 'Updated README with latest repositories'
+          MAX_LINES: 5
