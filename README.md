@@ -60,6 +60,9 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 ## 🛠️ Recent Projects
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <table>
   <tr>
     <td align="center">

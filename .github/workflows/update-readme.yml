@@ -20,4 +20,3 @@ jobs:
           template: "[$title]($url)"
           filter_comments: false
           disable_sort: false
-          content_type: "repo"
