@@ -58,20 +58,10 @@ jobs:
               const language = repo.language || 'Code';
               const stars = repo.stargazers_count;
               const updatedDate = new Date(repo.updated_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-              const colors = ['4285F4', '34A853', 'EA4335'];
+              const colors = ['2196F3', '4CAF50', 'FF9800'];
               const color = colors[index % colors.length];
               
-              return `<table><tr><td align="center" width="300"><div><img src="https://img.shields.io/badge/${encodeURIComponent(displayName)}-${color}?style=for-the-badge&logo=github&logoColor=white" alt="${displayName}"></div><h3><a href="${repo.html_url}" style="text-decoration: none;">${displayName}</a></h3><p><em>${description}</em></p><div><img src="https://img.shields.io/badge/Language-${language}-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-${stars}-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-${updatedDate}-green?style=flat-square"></div></td></tr></table>`;
-            }).join('\n\n');
-            
-            const commitList = latestCommits.map((commit, index) => {
-              const repoName = commit.repo.split('/')[1];
-              const shortMessage = commit.message.length > 50 ? commit.message.substring(0, 50) + '...' : commit.message;
-              const timeAgo = new Date(commit.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-              const colors = ['FF6B6B', '4ECDC4', 'FFE66D'];
-              const color = colors[index % colors.length];
-              
-              return `<div align="center"><table><tr><td align="center" width="400"><div><img src="https://img.shields.io/badge/💻_Commit-${color}?style=for-the-badge&logo=git&logoColor=white"></div><h4><a href="${commit.url}" style="text-decoration: none;">${repoName}</a></h4><p><code>${commit.sha}</code> • <strong>${shortMessage}</strong></p><p><em>${timeAgo}</em></p></td></tr></table></div>`;
+              return `<div align="center"><table><tr><td align="center" style="border: 2px solid #${color}; border-radius: 10px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); width: 280px;"><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/${encodeURIComponent(displayName)}-${color}?style=for-the-badge&logo=github&logoColor=white" alt="${displayName}"></div><h3 style="margin: 10px 0; color: #333;"><a href="${repo.html_url}" style="text-decoration: none; color: #${color};">${displayName}</a></h3><p style="color: #666; font-style: italic; margin: 10px 0;">${description}</p><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-${language}-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-${stars}-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-${updatedDate}-green?style=flat-square"></div></td></tr></table></div>`;
             }).join('\n\n');
             
             const readmePath = 'README.md';
@@ -88,20 +78,8 @@ jobs:
               readme = beforeRepos + '\n\n' + projectCards + '\n\n' + afterRepos;
             }
             
-            const commitStartMarker = '<!--START_SECTION:latest-commits-->';
-            const commitEndMarker = '<!--END_SECTION:latest-commits-->';
-            const commitStartIndex = readme.indexOf(commitStartMarker);
-            const commitEndIndex = readme.indexOf(commitEndMarker);
-            
-            if (commitStartIndex !== -1 && commitEndIndex !== -1) {
-              const beforeCommits = readme.substring(0, commitStartIndex + commitStartMarker.length);
-              const afterCommits = readme.substring(commitEndIndex);
-              readme = beforeCommits + '\n\n' + commitList + '\n\n' + afterCommits;
-            }
-            
             fs.writeFileSync(readmePath, readme);
             console.log('Updated README with latest repositories:', latestRepos.map(r => r.name));
-            console.log('Updated README with latest commits:', latestCommits.map(c => c.repo));
 
       - name: Commit changes
         run: |

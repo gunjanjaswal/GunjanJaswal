@@ -70,18 +70,6 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 </div>
 
-## 📝 Latest Commits
-
-<div align="center">
-
-<!--START_SECTION:latest-commits-->
-- 💻 **[Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/2e72cf947896857d4723557aea34fe04f7c86b24)** - Updated Read me
-- 💻 **[Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/5a4270610f53e5893f758cbd663b210ec7a6ac7a)** - Update README.md
-- 💻 **[Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/bd139006d3c83c7c95630f00ccd1daf78168b602)** - Updated Code
-<!--END_SECTION:latest-commits-->
-
-</div>
-
 ## 📊 Commit Activity
 
 <div align="center">
