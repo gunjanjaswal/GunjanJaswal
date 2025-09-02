@@ -63,36 +63,11 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 <div align="center">
 
 <!--START_SECTION:recent-repos-->
-
-<table><tr><td align="center" width="300"><div><img src="https://img.shields.io/badge/ElementorTimeFix12hours-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="ElementorTimeFix12hours"></div><h3><a href="https://github.com/gunjanjaswal/ElementorTimeFix12hours" style="text-decoration: none;">ElementorTimeFix12hours</a></h3><p><em>A WordPress plugin that transforms Elementor form time fields from 24-hour to 12-hour AM/PM format, improving user experience and email readability.</em></p><div><img src="https://img.shields.io/badge/Language-Code-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Aug 11-green?style=flat-square"></div></td></tr></table>
-
-<table><tr><td align="center" width="300"><div><img src="https://img.shields.io/badge/WordPress%20Emoji%20Reactions-34A853?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Emoji Reactions"></div><h3><a href="https://github.com/gunjanjaswal/Wordpress-Emoji-Reactions" style="text-decoration: none;">WordPress Emoji Reactions</a></h3><p><em>Add colorful emoji reactions to your WordPress posts and pages, similar to Facebook reactions.</em></p><div><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Aug 12-green?style=flat-square"></div></td></tr></table>
-
-<table><tr><td align="center" width="300"><div><img src="https://img.shields.io/badge/Google%20News%20Sitemap%20WordPress-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="Google News Sitemap WordPress"></div><h3><a href="https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress" style="text-decoration: none;">Google News Sitemap WordPress</a></h3><p><em>A lightweight WordPress plugin that generates a Google News sitemap compatible with all major SEO plugins. Features dual URL support, publication name/language fallbacks, and direct URL interception for maximum compatibility. Perfect for news sites wanting to get indexed in Google News.</em></p><div><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 2-green?style=flat-square"></div></td></tr></table>
-
 <!--END_SECTION:recent-repos-->
 
 </div>
 
-<<<<<<< HEAD
-=======
-## 📝 Latest Commits
 
-<div align="center">
-
-<!--START_SECTION:latest-commits-->
-
-<div align="center"><table><tr><td align="center" width="400"><div><img src="https://img.shields.io/badge/💻_Commit-FF6B6B?style=for-the-badge&logo=git&logoColor=white"></div><h4><a href="https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/2e72cf947896857d4723557aea34fe04f7c86b24" style="text-decoration: none;">Document-Download-Manager-Free</a></h4><p><code>2e72cf9</code> • <strong>Updated Read me</strong></p><p><em>Aug 16</em></p></td></tr></table></div>
-
-<div align="center"><table><tr><td align="center" width="400"><div><img src="https://img.shields.io/badge/💻_Commit-4ECDC4?style=for-the-badge&logo=git&logoColor=white"></div><h4><a href="https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/5a4270610f53e5893f758cbd663b210ec7a6ac7a" style="text-decoration: none;">Document-Download-Manager-Free</a></h4><p><code>5a42706</code> • <strong>Update README.md</strong></p><p><em>Aug 16</em></p></td></tr></table></div>
-
-<div align="center"><table><tr><td align="center" width="400"><div><img src="https://img.shields.io/badge/💻_Commit-FFE66D?style=for-the-badge&logo=git&logoColor=white"></div><h4><a href="https://github.com/gunjanjaswal/Document-Download-Manager-Free/commit/bd139006d3c83c7c95630f00ccd1daf78168b602" style="text-decoration: none;">Document-Download-Manager-Free</a></h4><p><code>bd13900</code> • <strong>Updated Code</strong></p><p><em>Aug 16</em></p></td></tr></table></div>
-
-<!--END_SECTION:latest-commits-->
-
-</div>
-
->>>>>>> ccc15f8a2d77ff30c775411022c828cd5516db7c
 ## 📊 Commit Activity
 
 <div align="center">
