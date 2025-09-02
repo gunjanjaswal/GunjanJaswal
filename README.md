@@ -66,10 +66,10 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/gunjanjaswal/wordpress-to-ghost-splitter">
-        <img src="https://img.shields.io/badge/WordPress_to_Ghost-XML_Splitter-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress to Ghost XML Splitter">
+      <a href="https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress">
+        <img src="https://img.shields.io/badge/Google_News-Sitemap_WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Google News Sitemap WordPress">
       </a>
-      <p>Tool to split large WordPress XML exports for Ghost migration</p>
+      <p>WordPress plugin for generating Google News compatible XML sitemaps</p>
     </td>
     <td align="center">
       <a href="#">
