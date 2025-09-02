@@ -60,13 +60,29 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 ## 🛠️ Recent Projects
 
+<div align="center">
+
 <!--START_SECTION:recent-repos-->
 <!--END_SECTION:recent-repos-->
 
+</div>
+
 ## 📝 Latest Commits
+
+<div align="center">
 
 <!--START_SECTION:latest-commits-->
 <!--END_SECTION:latest-commits-->
+
+</div>
+
+## 📊 Commit Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=react-dark&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph)
+
+</div>
 
 ## 🔌 WordPress Plugins
 

@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   create:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,6 @@ jobs:
           script: |
             const fs = require('fs');
             
-            // Fetch user's latest repositories (sorted by created date for newest repos)
             const { data: repos } = await github.rest.repos.listForUser({
               username: 'gunjanjaswal',
               sort: 'created',
@@ -31,58 +30,53 @@ jobs:
               type: 'owner'
             });
             
-            // Filter out forks and get top 3 latest repos
-            const latestRepos = repos
-              .filter(repo => !repo.fork && !repo.archived)
-              .slice(0, 3);
+            const latestRepos = repos.filter(repo => !repo.fork && !repo.archived).slice(0, 3);
             
-            // Fetch latest commits across all repos
             const { data: events } = await github.rest.activity.listPublicEventsForUser({
               username: 'gunjanjaswal',
-              per_page: 30
+              per_page: 50
             });
             
-            // Filter push events and get latest 3 commits
-            const latestCommits = events
-              .filter(event => event.type === 'PushEvent')
-              .slice(0, 3)
-              .map(event => ({
+            const pushEvents = events.filter(event => event.type === 'PushEvent' && event.payload.commits.length > 0);
+            const latestCommits = [];
+            
+            for (const event of pushEvents.slice(0, 3)) {
+              const commit = event.payload.commits[event.payload.commits.length - 1];
+              latestCommits.push({
                 repo: event.repo.name,
-                message: event.payload.commits[0]?.message || 'No commit message',
-                url: `https://github.com/${event.repo.name}/commit/${event.payload.commits[0]?.sha}`,
-                date: event.created_at
-              }));
+                message: commit.message,
+                url: `https://github.com/${event.repo.name}/commit/${commit.sha}`,
+                date: event.created_at,
+                sha: commit.sha.substring(0, 7)
+              });
+            }
             
-            // Generate Recent Projects HTML
-            const projectCards = latestRepos.map(repo => {
+            const projectCards = latestRepos.map((repo, index) => {
               const repoName = repo.name;
-              const displayName = repoName
-                .replace(/-/g, ' ')
-                .replace(/wordpress/gi, 'WordPress')
-                .replace(/google/gi, 'Google')
-                .replace(/news/gi, 'News')
-                .replace(/sitemap/gi, 'Sitemap');
-              
+              const displayName = repoName.replace(/-/g, ' ').replace(/wordpress/gi, 'WordPress').replace(/google/gi, 'Google').replace(/news/gi, 'News').replace(/sitemap/gi, 'Sitemap');
               const description = repo.description || `${repoName.replace(/-/g, ' ')} project`;
+              const language = repo.language || 'Code';
+              const stars = repo.stargazers_count;
+              const updatedDate = new Date(repo.updated_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+              const colors = ['4285F4', '34A853', 'EA4335'];
+              const color = colors[index % colors.length];
               
-              return `- 🚀 **[${displayName}](${repo.html_url})** - ${description}`;
-            }).join('\n');
+              return `<table><tr><td align="center" width="300"><div><img src="https://img.shields.io/badge/${encodeURIComponent(displayName)}-${color}?style=for-the-badge&logo=github&logoColor=white" alt="${displayName}"></div><h3><a href="${repo.html_url}" style="text-decoration: none;">${displayName}</a></h3><p><em>${description}</em></p><div><img src="https://img.shields.io/badge/Language-${language}-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-${stars}-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-${updatedDate}-green?style=flat-square"></div></td></tr></table>`;
+            }).join('\n\n');
             
-            // Generate Latest Commits HTML
-            const commitList = latestCommits.map(commit => {
+            const commitList = latestCommits.map((commit, index) => {
               const repoName = commit.repo.split('/')[1];
-              const shortMessage = commit.message.length > 60 ? 
-                commit.message.substring(0, 60) + '...' : 
-                commit.message;
+              const shortMessage = commit.message.length > 50 ? commit.message.substring(0, 50) + '...' : commit.message;
+              const timeAgo = new Date(commit.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+              const colors = ['FF6B6B', '4ECDC4', 'FFE66D'];
+              const color = colors[index % colors.length];
               
-              return `- 💻 **[${repoName}](${commit.url})** - ${shortMessage}`;
-            }).join('\n');
+              return `<div align="center"><table><tr><td align="center" width="400"><div><img src="https://img.shields.io/badge/💻_Commit-${color}?style=for-the-badge&logo=git&logoColor=white"></div><h4><a href="${commit.url}" style="text-decoration: none;">${repoName}</a></h4><p><code>${commit.sha}</code> • <strong>${shortMessage}</strong></p><p><em>${timeAgo}</em></p></td></tr></table></div>`;
+            }).join('\n\n');
             
-            // Read current README
             const readmePath = 'README.md';
             let readme = fs.readFileSync(readmePath, 'utf8');
             
-            // Update Recent Projects section
             const repoStartMarker = '<!--START_SECTION:recent-repos-->';
             const repoEndMarker = '<!--END_SECTION:recent-repos-->';
             const repoStartIndex = readme.indexOf(repoStartMarker);
@@ -91,10 +85,9 @@ jobs:
             if (repoStartIndex !== -1 && repoEndIndex !== -1) {
               const beforeRepos = readme.substring(0, repoStartIndex + repoStartMarker.length);
               const afterRepos = readme.substring(repoEndIndex);
-              readme = beforeRepos + '\n' + projectCards + '\n' + afterRepos;
+              readme = beforeRepos + '\n\n' + projectCards + '\n\n' + afterRepos;
             }
             
-            // Update Latest Commits section
             const commitStartMarker = '<!--START_SECTION:latest-commits-->';
             const commitEndMarker = '<!--END_SECTION:latest-commits-->';
             const commitStartIndex = readme.indexOf(commitStartMarker);
@@ -103,12 +96,10 @@ jobs:
             if (commitStartIndex !== -1 && commitEndIndex !== -1) {
               const beforeCommits = readme.substring(0, commitStartIndex + commitStartMarker.length);
               const afterCommits = readme.substring(commitEndIndex);
-              readme = beforeCommits + '\n' + commitList + '\n' + afterCommits;
+              readme = beforeCommits + '\n\n' + commitList + '\n\n' + afterCommits;
             }
             
-            // Write updated README
             fs.writeFileSync(readmePath, readme);
-            
             console.log('Updated README with latest repositories:', latestRepos.map(r => r.name));
             console.log('Updated README with latest commits:', latestCommits.map(c => c.repo));
 
