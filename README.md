@@ -60,31 +60,13 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 ## 🛠️ Recent Projects
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:recent-repos-->
+<!--END_SECTION:recent-repos-->
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress">
-        <img src="https://img.shields.io/badge/Google_News-Sitemap_WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Google News Sitemap WordPress">
-      </a>
-      <p>WordPress plugin for generating Google News compatible XML sitemaps</p>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Video_Subtitle-Generator-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Subtitle Generator">
-      </a>
-      <p>Generate subtitles using OpenAI Whisper API</p>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Author_Info-WordPress_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Author Info Shortcodes">
-      </a>
-      <p>Display author information with customizable shortcodes</p>
-    </td>
-  </tr>
-</table>
+## 📝 Latest Commits
+
+<!--START_SECTION:latest-commits-->
+<!--END_SECTION:latest-commits-->
 
 ## 🔌 WordPress Plugins
 
