@@ -71,54 +71,42 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 </div>
 
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Statistics (Updated: September 08, 2025)
 
 <div align="center">
 
-### 📈 Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanjaswal&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gunjanjaswal&theme=radical&hide_border=true)
+### 📈 Repository Overview
+| Total Repositories | Public | Private | Forks | Active | Archived |
+|-------------------|--------|---------|-------|--------|----------|
+| 11 | 11 | 0 | 1 | 11 | 0 |
 
-### 💻 Language Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanjaswal&layout=compact&theme=radical&hide_border=true&langs_count=8)
+### 💻 Language Distribution
+| Language | Repositories |
+|----------|--------------|
+| Python | 4 |
+| PHP | 4 |
+| JavaScript | 1 |
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### 📝 Commit Activity
+| Total Commits | Commits in 2025 | Commits in 2024 |
+|---------------|--------------------------|--------------------------|
+| 120 | 115 | 4 |
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
+### 🔥 Most Active Repositories
+| Repository | Commits |
+|------------|---------|
+| [Awesome-Public-Free-Apis](https://github.com/gunjanjaswal/Awesome-Public-Free-Apis) | 56 |
+| [GunjanJaswal](https://github.com/gunjanjaswal/GunjanJaswal) | 27 |
+| [Google-News-Sitemap-Wordpress](https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress) | 10 |
+| [Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free) | 7 |
+| [Wordpress-Emoji-Reactions](https://github.com/gunjanjaswal/Wordpress-Emoji-Reactions) | 6 |
 
-### 📊 Detailed Analytics
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanjaswal&theme=radical" alt="Profile Summary" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjanjaswal&theme=radical" alt="Repos per Language" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjanjaswal&theme=radical" alt="Most Commit Language" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunjanjaswal&theme=radical" alt="Stats" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunjanjaswal&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</td>
-</tr>
-</table>
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=gunjanjaswal&color=blueviolet&style=for-the-badge&label=Profile+Views)
+### 📅 Monthly Commit Activity (Last 12 Months)
+```
+Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep
+0   0   0   0   0   0   5   2   2   5   17  84 
+```
 
 </div>
 
