@@ -65,6 +65,7 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+
 ## 🛠️ Recent Projects
 
 
