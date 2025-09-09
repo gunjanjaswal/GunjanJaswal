@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%">
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Product+Architect+%26+Innovation+Catalyst;AI-Powered+Productivity+Tools;Transforming+Digital+Landscapes" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
   <a href="https://gunjanjaswal.me"><img src="https://img.shields.io/badge/Website-gunjanjaswal.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/gunjanjaswal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
