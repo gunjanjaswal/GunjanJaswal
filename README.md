@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Product+Architect+%26+Innovation+Catalyst;AI-Powered+Productivity+Tools;Transforming+Digital+Landscapes" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Product+Architect;Innovation+AI+Catalyst;Transforming+Digital+Landscapes" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -62,11 +62,11 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 - ⏱️ Reduced time-to-market by **60%** through agile implementation
 - 💰 Achieved **$2.5M cost savings** through strategic AI/ML integration
 
-## 🛠️ Recent Projects
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+## 🛠️ Recent Projects
+
 
 <div align="center">
 <!--START_SECTION:recent-repos-->
@@ -125,7 +125,7 @@ If you find my projects helpful and would like to support my work:
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
-  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" />
+  
 </div>
 
 ## �📫 Connect
