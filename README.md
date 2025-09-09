@@ -64,50 +64,9 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 <!--START_SECTION:recent-repos-->
 
-<table><tr><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #2196F3; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Awesome%20Public%20Free%20Apis-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Public Free Apis"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Awesome-Public-Free-Apis" style="text-decoration: none; color: #2196F3;">Awesome Public Free Apis</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">🌐 Awesome Public APIs: A self-updating collection of free APIs for developers. ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-1-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 8-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/WordPress%20Emoji%20Reactions-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Emoji Reactions"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Wordpress-Emoji-Reactions" style="text-decoration: none; color: #4CAF50;">WordPress Emoji Reactions</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">Add colorful emoji reactions to your WordPress posts and pages, similar to Faceb...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Aug 12-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #FF9800; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Google%20News%20Sitemap%20WordPress-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Google News Sitemap WordPress"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress" style="text-decoration: none; color: #FF9800;">Google News Sitemap WordPress</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">A lightweight WordPress plugin that generates a Google News sitemap compatible w...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 6-green?style=flat-square"></div></div></td></tr></table>
+<table><tr><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #2196F3; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Awesome%20Public%20Free%20Apis-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Public Free Apis"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Awesome-Public-Free-Apis" style="text-decoration: none; color: #2196F3;">Awesome Public Free Apis</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">🌐 Awesome Public APIs: A self-updating collection of free APIs for developers. ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-1-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 8-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/WordPress%20Emoji%20Reactions-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Emoji Reactions"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Wordpress-Emoji-Reactions" style="text-decoration: none; color: #4CAF50;">WordPress Emoji Reactions</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">An advanced emoji reaction system for WordPress, designed to boost user engagement. ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-1-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 8-green?style=flat-square"></div></div></td></tr><tr><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #FF5722; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Google%20News%20Sitemap%20Wordpress-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Google News Sitemap Wordpress"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress" style="text-decoration: none; color: #FF5722;">Google News Sitemap Wordpress</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">A WordPress plugin that generates a Google News sitemap, helping publishers get their content into Google News. ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-1-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 8-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #9C27B0; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Document%20Download%20Manager%20Free-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Document Download Manager Free"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Document-Download-Manager-Free" style="text-decoration: none; color: #9C27B0;">Document Download Manager Free</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">A lead generation plugin for WordPress that allows you to offer downloadable content in exchange for user information. ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-1-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Sep 8-green?style=flat-square"></div></div></td></tr></table>
 
 <!--END_SECTION:recent-repos-->
-
-</div>
-
-
-
-
-## 📊 GitHub Statistics (Updated: September 09, 2025)
-
-<div align="center">
-
-### 📈 Repository Overview
-| Total Repositories | Public | Private | Forks | Active | Archived |
-|-------------------|--------|---------|-------|--------|----------|
-| 11 | 11 | 0 | 1 | 11 | 0 |
-
-### 💻 Language Distribution
-| Language | Repositories |
-|----------|--------------|
-| Python | 4 |
-| PHP | 4 |
-| JavaScript | 1 |
-
-### 📝 Commit Activity
-| Total Commits | Commits in 2025 | Commits in 2024 |
-|---------------|--------------------------|--------------------------|
-| 381 | 376 | 4 |
-
-### 🔥 Most Active Repositories
-| Repository | Commits |
-|------------|---------|
-| [Awesome-Public-Free-Apis](https://github.com/gunjanjaswal/Awesome-Public-Free-Apis) | 316 |
-| [GunjanJaswal](https://github.com/gunjanjaswal/GunjanJaswal) | 28 |
-| [Google-News-Sitemap-Wordpress](https://github.com/gunjanjaswal/Google-News-Sitemap-Wordpress) | 10 |
-| [Document-Download-Manager-Free](https://github.com/gunjanjaswal/Document-Download-Manager-Free) | 7 |
-| [Wordpress-Emoji-Reactions](https://github.com/gunjanjaswal/Wordpress-Emoji-Reactions) | 6 |
-
-### 📅 Monthly Commit Activity (Last 12 Months)
-```
-Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep
-0   0   0   0   0   0   5   2   2   5   17  345
-```
 
 </div>
 
