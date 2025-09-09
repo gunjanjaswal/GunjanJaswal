@@ -123,13 +123,13 @@ If you find my projects helpful and would like to support my work:
   </a>
 </div>
 
-## �📫 Connect
+## 📫 Connect
 
 - **Website:** [gunjanjaswal.me](https://gunjanjaswal.me)
 - **Email:** hello@gunjanjaswal.me
 - **Timezone:** UTC+5:30
 
-## � Just for Fun
+## 🤪 Just for Fun
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
