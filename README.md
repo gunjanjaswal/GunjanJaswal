@@ -127,7 +127,6 @@ If you find my projects helpful and would like to support my work:
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
-  
 </div>
 
 ## �📫 Connect
