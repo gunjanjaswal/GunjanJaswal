@@ -117,7 +117,14 @@ If you find my projects helpful and would like to support my work:
   </a>
 </div>
 
-## 📫 Connect
+## � Just for Fun
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
+  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" />
+</div>
+
+## �📫 Connect
 
 - **Website:** [gunjanjaswal.me](https://gunjanjaswal.me)
 - **Email:** hello@gunjanjaswal.me
