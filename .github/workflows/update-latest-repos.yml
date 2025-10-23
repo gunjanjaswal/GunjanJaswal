@@ -37,18 +37,22 @@ jobs:
               per_page: 50
             });
             
-            const pushEvents = events.filter(event => event.type === 'PushEvent' && event.payload.commits.length > 0);
+            const pushEvents = events.filter(event => event.type === 'PushEvent' && event.payload && event.payload.commits && event.payload.commits.length > 0);
             const latestCommits = [];
             
             for (const event of pushEvents.slice(0, 3)) {
-              const commit = event.payload.commits[event.payload.commits.length - 1];
-              latestCommits.push({
-                repo: event.repo.name,
-                message: commit.message,
-                url: `https://github.com/${event.repo.name}/commit/${commit.sha}`,
-                date: event.created_at,
-                sha: commit.sha.substring(0, 7)
-              });
+              if (event.payload && event.payload.commits && event.payload.commits.length > 0) {
+                const commit = event.payload.commits[event.payload.commits.length - 1];
+                if (commit && commit.sha && commit.message && event.repo && event.repo.name) {
+                  latestCommits.push({
+                    repo: event.repo.name,
+                    message: commit.message,
+                    url: `https://github.com/${event.repo.name}/commit/${commit.sha}`,
+                    date: event.created_at,
+                    sha: commit.sha.substring(0, 7)
+                  });
+                }
+              }
             }
             
             const projectCards = latestRepos.map((repo, index) => {
