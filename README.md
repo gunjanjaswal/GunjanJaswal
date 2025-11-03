@@ -63,7 +63,9 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 - 💰 Achieved **$2.5M cost savings** through strategic AI/ML integration
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ## 🛠️ Recent Projects
