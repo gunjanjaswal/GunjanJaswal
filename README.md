@@ -113,11 +113,19 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
       </a>
       <p>Add emoji reactions to WordPress posts and pages</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Custom-WordPress_Solutions-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Custom WordPress Solutions">
+      <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
+        <img src="https://img.shields.io/badge/Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
       </a>
-      <p>Enterprise WordPress development services</p>
+      <p>Generates a Google News compatible XML sitemap for better news content indexing</p>
+    </td>
+    <td align="center">
+      <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
+        <img src="https://img.shields.io/badge/FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
+      </a>
+      <p>Automatically adds fetchpriority="high" to featured images to improve Core Web Vitals</p>
     </td>
   </tr>
 </table>
