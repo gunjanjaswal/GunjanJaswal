@@ -78,6 +78,25 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 </div>
 
+## 🌐 Chrome Extensions
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln">
+        <img src="https://img.shields.io/badge/BurnerBuddy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BurnerBuddy">
+      </a>
+      <p>Your friendly privacy companion - fills forms with temporary data and provides a disposable inbox</p>
+    </td>
+    <td align="center">
+      <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
+        <img src="https://img.shields.io/badge/JustSayNo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="JustSayNo - Cookie Banner Rejector">
+      </a>
+      <p>Automatically clicks 'Reject All' on cookie banners. Take back your privacy, one click at a time.</p>
+    </td>
+  </tr>
+</table>
+
 ## 🔌 WordPress Plugins
 
 <table>
