@@ -66,6 +66,24 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
   <img src="https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanjaswal&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+</div>
+
+<div align="center">
+  
+| Metric | Count |
+|--------|-------|
+| 📦 **Total Repositories** | ![Total Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gunjanjaswal&query=$.public_repos+$.total_private_repos&label=Total&style=flat-square&color=blue) |
+| 🌍 **Public Repositories** | ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gunjanjaswal&query=$.public_repos&label=Public&style=flat-square&color=green) |
+| 🔒 **Private Repositories** | ![Private Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gunjanjaswal&query=$.total_private_repos&label=Private&style=flat-square&color=orange) |
+
+</div>
+
 ## 🛠️ Recent Projects
 
 
