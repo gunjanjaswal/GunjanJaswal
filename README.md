@@ -1,5 +1,3 @@
-# Hi there, I'm Gunjan Jaswaal 👋
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%">
 </div>
