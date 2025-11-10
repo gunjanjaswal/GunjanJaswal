@@ -1,4 +1,6 @@
-# Hi there, I'm Gunjan Jaswaal 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Hi%20there,%20I'm%20Gunjan%20Jaswaal%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header"/>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%">
@@ -16,19 +18,58 @@
 
 ## 🚀 About Me
 
-Product Architect & Innovation Catalyst with 16+ years of experience transforming digital landscapes. I specialize in building scalable solutions across Media, Aviation, and EdTech sectors.
+<div align="center">
 
-- 🔭 I'm currently working on **AI-powered productivity tools**
-- 🌱 I'm currently learning **Generative AI & LLM applications**
-- 💬 Ask me about **digital transformation, product strategy, and platform architecture**
-- ⚡ Fun fact: I've helped platforms serving 100M+ users achieve 70% engagement increase!
+```diff
+@@ Product Architect & Innovation Catalyst @@
++ 16+ years transforming digital landscapes
++ Specializing in Media, Aviation, and EdTech sectors
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
+- 🔭 **Working on:** AI-powered productivity tools
+- 🌱 **Learning:** Generative AI & LLM applications
+- 🚀 **Building:** Chrome extensions & WordPress plugins
+
+</td>
+<td width="50%">
+
+### 💡 Ask Me About
+- 💬 Digital transformation strategies
+- 🏗️ Product strategy & architecture
+- 🎨 Platform design & scalability
+- ⚡ **Fun fact:** Helped 100M+ users achieve 70% engagement boost!
+
+</td>
+</tr>
+</table>
 
 ## 💼 Professional Experience
 
-- **Product Architect & Innovation Catalyst** | 16+ years experience
-- **Focus:** Digital transformation and product strategy
-- **Sectors:** Media, Aviation, EdTech
-- **Team Leadership:** Led 15+ member cross-functional teams
+<div align="center">
+
+| 🎯 Role | 📊 Experience | 🏢 Sectors | 👥 Leadership |
+|---------|---------------|------------|---------------|
+| **Product Architect & Innovation Catalyst** | **16+ years** | Media, Aviation, EdTech | Led **15+** member teams |
+
+</div>
+
+<div align="center">
+
+### 🌟 Impact Highlights
+
+[![Users](https://img.shields.io/badge/Users_Served-100M+-FF6B6B?style=for-the-badge&logo=target&logoColor=white)]()
+[![Engagement](https://img.shields.io/badge/Engagement_Increase-70%25-10b981?style=for-the-badge&logo=trending-up&logoColor=white)]()
+[![Time_to_Market](https://img.shields.io/badge/Time_to_Market-60%25_Faster-667eea?style=for-the-badge&logo=rocket&logoColor=white)]()
+[![Cost_Savings](https://img.shields.io/badge/Cost_Savings-$2.5M-FFD700?style=for-the-badge&logo=dollar-sign&logoColor=white)]()
+
+</div>
 
 ## 🔧 Skills & Technologies
 
@@ -58,15 +99,63 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 ## 🏆 Key Achievements
 
-- 📈 Led platforms serving **100M+ users** with **70% engagement increase**
-- ⏱️ Reduced time-to-market by **60%** through agile implementation
-- 💰 Achieved **$2.5M cost savings** through strategic AI/ML integration
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="60"/>
+<h3>100M+</h3>
+<p><b>Users Served</b></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+<h3>70%</h3>
+<p><b>Engagement Increase</b></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/clock.png" width="60"/>
+<h3>60%</h3>
+<p><b>Faster Time-to-Market</b></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="60"/>
+<h3>$2.5M</h3>
+<p><b>Cost Savings</b></p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
+### 🏆 Trophies
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 GitHub Activity
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=gunjanjaswal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanjaswal&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=FF6B6B&currStreakLabel=667eea" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanjaswal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" alt="Top Languages"/>
+
+### 📉 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=667eea&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -84,65 +173,136 @@ Product Architect & Innovation Catalyst with 16+ years of experience transformin
 
 ## 🌐 Chrome Extensions
 
+<div align="center">
+
+### 🎯 Featured Extensions
+
+</div>
+
 <table>
   <tr>
-    <td align="center">
-      <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln">
-        <img src="https://img.shields.io/badge/BurnerBuddy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BurnerBuddy">
+    <td align="center" width="33%">
+      <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf">
+        <img src="https://img.shields.io/badge/🎬_QuickReel-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="QuickReel">
       </a>
-      <p>Your friendly privacy companion - fills forms with temporary data and provides a disposable inbox</p>
+      <br><br>
+      <b>🎥 QuickReel Screen Recorder</b>
+      <p>100% Free screen recording with unlimited time. No watermarks, no restrictions. Private and simple.</p>
+      <img src="https://img.shields.io/badge/⏱️-Unlimited_Recording-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/🔒-Privacy_First-764ba2?style=flat-square">
     </td>
-    <td align="center">
-      <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
-        <img src="https://img.shields.io/badge/JustSayNo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="JustSayNo - Cookie Banner Rejector">
+    <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln">
+        <img src="https://img.shields.io/badge/🛡️_BurnerBuddy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BurnerBuddy">
       </a>
+      <br><br>
+      <b>🔐 Privacy Companion</b>
+      <p>Your friendly privacy companion - fills forms with temporary data and provides a disposable inbox</p>
+      <img src="https://img.shields.io/badge/✉️-Temp_Email-4285F4?style=flat-square">
+      <img src="https://img.shields.io/badge/🎭-Anonymous-FF6B6B?style=flat-square">
+    </td>
+    <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
+        <img src="https://img.shields.io/badge/🍪_JustSayNo-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="JustSayNo">
+      </a>
+      <br><br>
+      <b>🚫 Cookie Banner Rejector</b>
       <p>Automatically clicks 'Reject All' on cookie banners. Take back your privacy, one click at a time.</p>
+      <img src="https://img.shields.io/badge/⚡-Auto_Reject-EA4335?style=flat-square">
+      <img src="https://img.shields.io/badge/🎯-Privacy_First-34A853?style=flat-square">
     </td>
   </tr>
 </table>
 
 ## 🔌 WordPress Plugins
 
+<div align="center">
+
+### 🎨 Featured Plugins
+
+</div>
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://wordpress.org/plugins/document-download-manager/">
-        <img src="https://img.shields.io/badge/Document_Download-Manager-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Document Download Manager">
+        <img src="https://img.shields.io/badge/📥_Document_Download-Manager-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Document Download Manager">
       </a>
+      <br><br>
+      <b>📄 Lead Generation Tool</b>
       <p>Lead generation tool for gated content downloads with form builder</p>
+      <img src="https://img.shields.io/badge/📊-Lead_Gen-4CAF50?style=flat-square">
+      <img src="https://img.shields.io/badge/📝-Form_Builder-2196F3?style=flat-square">
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
-        <img src="https://img.shields.io/badge/Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
+        <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
       </a>
+      <br><br>
+      <b>🎭 Emoji Reactions</b>
       <p>Add emoji reactions to WordPress posts and pages</p>
+      <img src="https://img.shields.io/badge/💬-Engagement-FF6B6B?style=flat-square">
+      <img src="https://img.shields.io/badge/🎨-Interactive-9C27B0?style=flat-square">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
-        <img src="https://img.shields.io/badge/Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
+        <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
       </a>
+      <br><br>
+      <b>🗞️ Google News Sitemap</b>
       <p>Generates a Google News compatible XML sitemap for better news content indexing</p>
+      <img src="https://img.shields.io/badge/🔍-SEO-FF9800?style=flat-square">
+      <img src="https://img.shields.io/badge/📡-News_Feed-EA4335?style=flat-square">
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
-        <img src="https://img.shields.io/badge/FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
+        <img src="https://img.shields.io/badge/⚡_FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
       </a>
+      <br><br>
+      <b>🚀 Performance Optimizer</b>
       <p>Automatically adds fetchpriority="high" to featured images to improve Core Web Vitals</p>
+      <img src="https://img.shields.io/badge/⚡-Performance-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/📊-Core_Web_Vitals-4285F4?style=flat-square">
     </td>
   </tr>
 </table>
 
 ## 🎓 Education & Certifications
 
-- **Master of Computer Applications** | Bangalore University
-- **B.Com Hons: E-Commerce** | Panjab University
+<div align="center">
 
-### Recent Certifications
-- 🏅 Generative AI Overview for Project Managers (PMI, March 2025)
-- 🏅 Google AI Essentials (Coursera, Oct 2024)
-- 🏅 Google Project Management Professional Certificate v2 (Coursera, Oct 2024)
+### 🎯 Academic Background
+
+| 🎓 Degree | 🏛️ Institution |
+|-----------|----------------|
+| **Master of Computer Applications** | Bangalore University |
+| **B.Com Hons: E-Commerce** | Panjab University |
+
+### 🏅 Recent Certifications
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤖-Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<p><b>Generative AI Overview for Project Managers</b></p>
+<p>PMI • March 2025</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧠-Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<p><b>Google AI Essentials</b></p>
+<p>Coursera • Oct 2024</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📊-Project_Management-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+<p><b>Google Project Management Professional Certificate v2</b></p>
+<p>Coursera • Oct 2024</p>
+</td>
+</tr>
+</table>
 
 ## 💖 Support My Work
 
@@ -154,14 +314,71 @@ If you find my projects helpful and would like to support my work:
   </a>
 </div>
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- **Website:** [gunjanjaswal.me](https://gunjanjaswal.me)
-- **Email:** hello@gunjanjaswal.me
-- **Timezone:** UTC+5:30
+<div align="center">
+
+### 🌐 Let's Connect!
+
+<table>
+<tr>
+<td align="center">
+<a href="https://gunjanjaswal.me">
+<img src="https://img.shields.io/badge/🌐-Website-667eea?style=for-the-badge&logoColor=white"/>
+</a>
+<p><b>gunjanjaswal.me</b></p>
+</td>
+<td align="center">
+<a href="mailto:hello@gunjanjaswal.me">
+<img src="https://img.shields.io/badge/📧-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<p><b>hello@gunjanjaswal.me</b></p>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/gunjanjaswal/">
+<img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<p><b>Connect on LinkedIn</b></p>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🕐-Timezone-10b981?style=for-the-badge"/>
+<p><b>UTC+5:30</b></p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🤪 Just for Fun
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
+
+### 😂 Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Jokes Card" />
+
+### 🐍 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+### 🎵 Spotify Playing
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qqr5zfxvs5ksqwzpxkxqxqxqxq&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=667eea&bar_color_cover=false" alt="Spotify Playing"/>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=gunjanjaswal&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Made with Love & Caffeine
+
+**✨ Building the future, one commit at a time ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" alt="Footer"/>
+
 </div>
