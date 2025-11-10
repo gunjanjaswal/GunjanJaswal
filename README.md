@@ -18,13 +18,17 @@
 
 <div align="center">
 
-```diff
-@@ Product Architect & Innovation Catalyst @@
-+ 16+ years transforming digital landscapes across 3 continents
-+ Specializing in Media, Aviation, and EdTech sectors
-+ Led international teams of developers and product managers
-+ Driving innovation through AI, scalable architecture, and user-centric design
-```
+### 💼 Product Architect & Innovation Catalyst
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=16%2B+years+transforming+digital+landscapes+across+3+continents;Specializing+in+Media%2C+Aviation%2C+and+EdTech+sectors;Led+international+teams+of+developers+and+product+managers;Driving+innovation+through+AI%2C+scalable+architecture%2C+and+user-centric+design" alt="About Me Typing" />
+
+</div>
+
+<div align="center">
+
+| 🌍 **Global Experience** | 🎯 **Specialization** | 👥 **Leadership** | 🚀 **Innovation** |
+|:---:|:---:|:---:|:---:|
+| 3 Continents | Media, Aviation, EdTech | International Teams | AI & Scalable Architecture |
 
 </div>
 
@@ -133,7 +137,7 @@
 </tr>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/globe.png" width="60"/>
+<img src="https://img.icons8.com/color/96/000000/globe--v1.png" width="60"/>
 <h3>3 Continents</h3>
 <p><b>International Teams Led</b></p>
 </td>
@@ -321,19 +325,34 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.credly.com/badges/0667b8c1-2fdd-4b3b-8186-3d6412fcd4c0/public_url" target="_blank">
 <img src="https://img.shields.io/badge/🤖-Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
 <p><b>Generative AI Overview for Project Managers</b></p>
 <p>PMI • March 2025</p>
+<a href="https://www.credly.com/badges/0667b8c1-2fdd-4b3b-8186-3d6412fcd4c0/public_url" target="_blank">
+<img src="https://img.shields.io/badge/View_Credential-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+</a>
 </td>
 <td align="center" width="33%">
+<a href="https://www.credly.com/badges/96b7d534-69d3-411d-a8ed-e6eb87ec15cb" target="_blank">
 <img src="https://img.shields.io/badge/🧠-Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
 <p><b>Google AI Essentials</b></p>
 <p>Coursera • Oct 2024</p>
+<a href="https://www.credly.com/badges/96b7d534-69d3-411d-a8ed-e6eb87ec15cb" target="_blank">
+<img src="https://img.shields.io/badge/View_Credential-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+</a>
 </td>
 <td align="center" width="33%">
+<a href="https://www.credly.com/badges/76c7c189-b972-4168-851f-2d5a03a9ac55" target="_blank">
 <img src="https://img.shields.io/badge/📊-Project_Management-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
 <p><b>Google Project Management Professional Certificate v2</b></p>
 <p>Coursera • Oct 2024</p>
+<a href="https://www.credly.com/badges/76c7c189-b972-4168-851f-2d5a03a9ac55" target="_blank">
+<img src="https://img.shields.io/badge/View_Credential-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+</a>
 </td>
 </tr>
 </table>
