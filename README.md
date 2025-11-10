@@ -170,27 +170,6 @@
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 GitHub Activity
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=gunjanjaswal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanjaswal&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=FF6B6B&currStreakLabel=667eea" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanjaswal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" alt="Top Languages"/>
-
-### 📉 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=667eea&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ## 🛠️ Recent Projects
