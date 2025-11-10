@@ -322,35 +322,35 @@
 <tr>
 <td align="center" width="33%">
 <a href="https://www.credly.com/badges/0667b8c1-2fdd-4b3b-8186-3d6412fcd4c0/public_url" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/2d178f7b-52a6-4c9d-bb1d-d0c8ccc4c3b2/image.png" width="150" alt="Generative AI Overview for Project Managers"/>
+<img src="https://img.shields.io/badge/🤖-Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" height="80"/>
 </a>
 <br><br>
-<p><b>🤖 Generative AI Overview for Project Managers</b></p>
-<p>PMI • March 2025</p>
+<p><b>Generative AI Overview for Project Managers</b></p>
+<p><img src="https://img.shields.io/badge/PMI-March_2025-667eea?style=flat-square"/></p>
 <a href="https://www.credly.com/badges/0667b8c1-2fdd-4b3b-8186-3d6412fcd4c0/public_url" target="_blank">
-<img src="https://img.shields.io/badge/View_Credential-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏅_View_Credential-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://www.credly.com/badges/96b7d534-69d3-411d-a8ed-e6eb87ec15cb" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/ea5f05bc-4e4d-4d25-a9d4-2a5e174a0d66/image.png" width="150" alt="Google AI Essentials"/>
+<img src="https://img.shields.io/badge/🧠-Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" height="80"/>
 </a>
 <br><br>
-<p><b>🧠 Google AI Essentials</b></p>
-<p>Coursera • Oct 2024</p>
+<p><b>Google AI Essentials</b></p>
+<p><img src="https://img.shields.io/badge/Coursera-Oct_2024-667eea?style=flat-square&logo=coursera"/></p>
 <a href="https://www.credly.com/badges/96b7d534-69d3-411d-a8ed-e6eb87ec15cb" target="_blank">
-<img src="https://img.shields.io/badge/View_Credential-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏅_View_Credential-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://www.credly.com/badges/76c7c189-b972-4168-851f-2d5a03a9ac55" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="150" alt="Google Project Management"/>
+<img src="https://img.shields.io/badge/📊-Project_Management-34A853?style=for-the-badge&logo=google&logoColor=white" height="80"/>
 </a>
 <br><br>
-<p><b>📊 Google Project Management Professional Certificate</b></p>
-<p>Coursera • Oct 2024</p>
+<p><b>Google Project Management Professional Certificate</b></p>
+<p><img src="https://img.shields.io/badge/Coursera-Oct_2024-667eea?style=flat-square&logo=coursera"/></p>
 <a href="https://www.credly.com/badges/76c7c189-b972-4168-851f-2d5a03a9ac55" target="_blank">
-<img src="https://img.shields.io/badge/View_Credential-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏅_View_Credential-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
 </td>
 </tr>
