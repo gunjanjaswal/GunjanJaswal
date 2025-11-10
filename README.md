@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Hi%20there,%20I'm%20Gunjan%20Jaswaal%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header"/>
-</div>
+# Hi there, I'm Gunjan Jaswaal 👋
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%">
@@ -22,8 +20,10 @@
 
 ```diff
 @@ Product Architect & Innovation Catalyst @@
-+ 16+ years transforming digital landscapes
++ 16+ years transforming digital landscapes across 3 continents
 + Specializing in Media, Aviation, and EdTech sectors
++ Led international teams of developers and product managers
++ Driving innovation through AI, scalable architecture, and user-centric design
 ```
 
 </div>
@@ -35,7 +35,7 @@
 ### 🎯 Current Focus
 - 🔭 **Working on:** AI-powered productivity tools
 - 🌱 **Learning:** Generative AI & LLM applications
-- 🚀 **Building:** Chrome extensions & WordPress plugins
+- 🚀 **Building:** Chrome extensions, WordPress plugins & AI projects
 
 </td>
 <td width="50%">
@@ -56,7 +56,7 @@
 
 | 🎯 Role | 📊 Experience | 🏢 Sectors | 👥 Leadership |
 |---------|---------------|------------|---------------|
-| **Product Architect & Innovation Catalyst** | **16+ years** | Media, Aviation, EdTech | Led **15+** member teams |
+| **Product Architect & Innovation Catalyst** | **16+ years** | **Media, Aviation, EdTech** | Led **multiple international teams** of developers & product managers |
 
 </div>
 
@@ -68,6 +68,8 @@
 [![Engagement](https://img.shields.io/badge/Engagement_Increase-70%25-10b981?style=for-the-badge&logo=trending-up&logoColor=white)]()
 [![Time_to_Market](https://img.shields.io/badge/Time_to_Market-60%25_Faster-667eea?style=for-the-badge&logo=rocket&logoColor=white)]()
 [![Cost_Savings](https://img.shields.io/badge/Cost_Savings-$2.5M-FFD700?style=for-the-badge&logo=dollar-sign&logoColor=white)]()
+[![Revenue](https://img.shields.io/badge/Revenue_Growth-300%25-00D9FF?style=for-the-badge&logo=chart-line&logoColor=white)]()
+[![Teams](https://img.shields.io/badge/International_Teams-Led_Across_3_Continents-9C27B0?style=for-the-badge&logo=globe&logoColor=white)]()
 
 </div>
 
@@ -103,25 +105,57 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="60"/>
 <h3>100M+</h3>
 <p><b>Users Served</b></p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
 <h3>70%</h3>
 <p><b>Engagement Increase</b></p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/clock.png" width="60"/>
 <h3>60%</h3>
 <p><b>Faster Time-to-Market</b></p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="60"/>
 <h3>$2.5M</h3>
 <p><b>Cost Savings</b></p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60"/>
+<h3>300%</h3>
+<p><b>Revenue Growth</b></p>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/globe.png" width="60"/>
+<h3>3 Continents</h3>
+<p><b>International Teams Led</b></p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+<h3>15+ AI</h3>
+<p><b>AI/ML Projects Delivered</b></p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/>
+<h3>50+</h3>
+<p><b>Product Launches</b></p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/conference-call.png" width="60"/>
+<h3>200+</h3>
+<p><b>Team Members Mentored</b></p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/star.png" width="60"/>
+<h3>99%</h3>
+<p><b>Client Satisfaction Rate</b></p>
 </td>
 </tr>
 </table>
@@ -360,10 +394,6 @@ If you find my projects helpful and would like to support my work:
 ### 🐍 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-### 🎵 Spotify Playing
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qqr5zfxvs5ksqwzpxkxqxqxqxq&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=667eea&bar_color_cover=false" alt="Spotify Playing"/>
 
 ---
 
