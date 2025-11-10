@@ -18,8 +18,6 @@
 
 ### 💼 Product Architect & Innovation Catalyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=16%2B+years+transforming+digital+landscapes+across+3+continents;Specializing+in+Media%2C+Aviation%2C+and+EdTech+sectors;Led+international+teams+of+developers+and+product+managers;Driving+innovation+through+AI%2C+scalable+architecture%2C+and+user-centric+design" alt="About Me Typing" />
-
 </div>
 
 <div align="center">
