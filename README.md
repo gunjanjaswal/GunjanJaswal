@@ -166,9 +166,26 @@
 
 <div align="center">
 
-### 🏆 Trophies
+### 💻 Coding Activity
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+<table>
+<tr>
+<td width="50%">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gunjanjaswal&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=667eea&fire=FF6B6B&currStreakLabel=667eea)](https://git.io/streak-stats)
+
+</td>
+<td width="50%">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanjaswal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
+
+### 🎯 Contribution Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanjaswal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -403,12 +420,6 @@ If you find my projects helpful and would like to support my work:
 ### 🐍 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=gunjanjaswal&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
-
-</div>
 
 ---
 
