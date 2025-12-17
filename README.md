@@ -168,7 +168,7 @@
 
 ### 🏆 Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gunjanjaswal&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
@@ -237,7 +237,17 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/endpointy-menus/">
+        <img src="https://img.shields.io/badge/🔌_Endpointy-Menus-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Endpointy Menus">
+      </a>
+      <br><br>
+      <b>🌐 REST API Menu Endpoints</b>
+      <p>Expose WordPress menus via REST API for headless CMS and decoupled applications</p>
+      <img src="https://img.shields.io/badge/🔗-REST_API-667eea?style=flat-square">
+      <img src="https://img.shields.io/badge/🎯-Headless_CMS-10b981?style=flat-square">
+    </td>
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/document-download-manager/">
         <img src="https://img.shields.io/badge/📥_Document_Download-Manager-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Document Download Manager">
       </a>
@@ -247,7 +257,7 @@
       <img src="https://img.shields.io/badge/📊-Lead_Gen-4CAF50?style=flat-square">
       <img src="https://img.shields.io/badge/📝-Form_Builder-2196F3?style=flat-square">
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
         <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
       </a>
@@ -259,7 +269,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
         <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
       </a>
@@ -269,7 +279,7 @@
       <img src="https://img.shields.io/badge/🔍-SEO-FF9800?style=flat-square">
       <img src="https://img.shields.io/badge/📡-News_Feed-EA4335?style=flat-square">
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
         <img src="https://img.shields.io/badge/⚡_FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
       </a>
@@ -278,6 +288,8 @@
       <p>Automatically adds fetchpriority="high" to featured images to improve Core Web Vitals</p>
       <img src="https://img.shields.io/badge/⚡-Performance-10b981?style=flat-square">
       <img src="https://img.shields.io/badge/📊-Core_Web_Vitals-4285F4?style=flat-square">
+    </td>
+    <td align="center" width="33%">
     </td>
   </tr>
 </table>
