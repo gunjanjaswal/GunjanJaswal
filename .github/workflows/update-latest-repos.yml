@@ -23,9 +23,8 @@ jobs:
           script: |
             const fs = require('fs');
             
-            const { data: repos } = await github.rest.repos.listForUser({
-              username: 'gunjanjaswal',
-              sort: 'created',
+                          username: 'gunjanjaswal',
+              sort: 'pushed',
               per_page: 10,
               type: 'owner'
             });
@@ -70,9 +69,17 @@ jobs:
             
             const projectCardsHtml = `<table><tr>${projectCards.join('')}</tr></table>`;
             
+            const commitsHtml = latestCommits.map(commit => {
+              const date = new Date(commit.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+              return `<tr><td width="100px"><code>${commit.sha}</code></td><td><a href="${commit.url}">${commit.message}</a></td><td>${commit.repo}</td><td align="right">${date}</td></tr>`;
+            }).join('');
+            
+            const commitsTableHtml = `<table>${commitsHtml}</table>`;
+            
             const readmePath = 'README.md';
             let readme = fs.readFileSync(readmePath, 'utf8');
             
+            // Update Repos
             const repoStartMarker = '<!--START_SECTION:recent-repos-->';
             const repoEndMarker = '<!--END_SECTION:recent-repos-->';
             const repoStartIndex = readme.indexOf(repoStartMarker);
@@ -82,6 +89,18 @@ jobs:
               const beforeRepos = readme.substring(0, repoStartIndex + repoStartMarker.length);
               const afterRepos = readme.substring(repoEndIndex);
               readme = beforeRepos + '\n\n' + projectCardsHtml + '\n\n' + afterRepos;
+            }
+            
+            // Update Commits
+            const commitStartMarker = '<!--START_SECTION:recent-commits-->';
+            const commitEndMarker = '<!--END_SECTION:recent-commits-->';
+            const commitStartIndex = readme.indexOf(commitStartMarker);
+            const commitEndIndex = readme.indexOf(commitEndMarker);
+            
+            if (commitStartIndex !== -1 && commitEndIndex !== -1) {
+              const beforeCommits = readme.substring(0, commitStartIndex + commitStartMarker.length);
+              const afterCommits = readme.substring(commitEndIndex);
+              readme = beforeCommits + '\n\n' + commitsTableHtml + '\n\n' + afterCommits;
             }
             
             fs.writeFileSync(readmePath, readme);

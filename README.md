@@ -174,6 +174,11 @@
 
 </div>
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:recent-commits-->
+<!--END_SECTION:recent-commits-->
+
 ## 🌐 Chrome Extensions
 
 <div align="center">
