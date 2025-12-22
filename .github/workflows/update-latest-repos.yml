@@ -23,7 +23,8 @@ jobs:
           script: |
             const fs = require('fs');
             
-                          username: 'gunjanjaswal',
+                        const { data: repos } = await github.rest.repos.listForUser({
+              username: 'gunjanjaswal',
               sort: 'pushed',
               per_page: 10,
               type: 'owner'
