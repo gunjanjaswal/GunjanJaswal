@@ -168,7 +168,7 @@
 <div align="center">
 <!--START_SECTION:recent-repos-->
 
-<table><tr><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #2196F3; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Endpointy%20Menus-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Endpointy Menus"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Endpointy-Menus" style="text-decoration: none; color: #2196F3;">Endpointy Menus</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">This plugin registers custom REST API routes to expose WordPress menus so they c...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Dec 3-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/JustSayNo-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="JustSayNo"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/JustSayNo" style="text-decoration: none; color: #4CAF50;">JustSayNo</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">JustSayNo is a Chrome extension that automatically navigates and clicks "Reject ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-JavaScript-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Oct 28-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #FF9800; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/BurnerBuddy-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="BurnerBuddy"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/BurnerBuddy" style="text-decoration: none; color: #FF9800;">BurnerBuddy</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">Chrome extension - BurnerBuddy is a one-click consumer privacy tool that combine...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-HTML-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Oct 28-green?style=flat-square"></div></div></td></tr></table>
+<table><tr><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #2196F3; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Awesome%20Public%20Free%20Apis-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Public Free Apis"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Awesome-Public-Free-Apis" style="text-decoration: none; color: #2196F3;">Awesome Public Free Apis</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">🌐 Awesome Public APIs: A self-updating collection of free APIs for developers. ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-4-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Dec 23-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/GunjanJaswal-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="GunjanJaswal"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/GunjanJaswal" style="text-decoration: none; color: #4CAF50;">GunjanJaswal</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">Config files for my GitHub profile.</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-Code-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Dec 23-green?style=flat-square"></div></div></td><td align="center" style="vertical-align: top; padding: 10px;"><div style="border: 2px solid #FF9800; border-radius: 15px; padding: 20px; margin: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); width: 280px; height: 300px; display: flex; flex-direction: column; justify-content: space-between;"><div><div style="margin-bottom: 15px;"><img src="https://img.shields.io/badge/Awesome%20Generative%20AI%20Prompts-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Generative AI Prompts"></div><h3 style="margin: 10px 0; color: #333; font-size: 16px;"><a href="https://github.com/gunjanjaswal/Awesome-Generative-AI-Prompts" style="text-decoration: none; color: #FF9800;">Awesome Generative AI Prompts</a></h3><p style="color: #666; font-style: italic; margin: 10px 0; line-height: 1.4; font-size: 14px;">A curated, self-updating collection of effective prompts for various generative ...</p></div><div style="margin-top: 15px;"><img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"> <img src="https://img.shields.io/badge/⭐-0-yellow?style=flat-square"> <img src="https://img.shields.io/badge/Updated-Dec 23-green?style=flat-square"></div></div></td></tr></table>
 
 <!--END_SECTION:recent-repos-->
 
@@ -193,6 +193,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp">
+        <img src="https://img.shields.io/badge/🛡️_WebArmor-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebArmor">
+      </a>
+      <br><br>
+      <b>🛡️ Advanced Ad & Content Blocker</b>
+      <p>Universal ad blocking, tracker protection, and paywall bypass for a cleaner, faster web.</p>
+      <img src="https://img.shields.io/badge/🚫-Block_Ads-FF5252?style=flat-square">
+      <img src="https://img.shields.io/badge/🔓-Bypass_Paywalls-4CAF50?style=flat-square">
+    </td>
+    <td align="center" width="33%">
       <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf">
         <img src="https://img.shields.io/badge/🎬_QuickReel-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="QuickReel">
       </a>
@@ -212,6 +222,8 @@
       <img src="https://img.shields.io/badge/✉️-Temp_Email-4285F4?style=flat-square">
       <img src="https://img.shields.io/badge/🎭-Anonymous-FF6B6B?style=flat-square">
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
         <img src="https://img.shields.io/badge/🍪_JustSayNo-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="JustSayNo">
@@ -221,18 +233,6 @@
       <p>Automatically clicks 'Reject All' on cookie banners. Take back your privacy, one click at a time.</p>
       <img src="https://img.shields.io/badge/⚡-Auto_Reject-EA4335?style=flat-square">
       <img src="https://img.shields.io/badge/🎯-Privacy_First-34A853?style=flat-square">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp">
-        <img src="https://img.shields.io/badge/🛡️_WebArmor-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebArmor">
-      </a>
-      <br><br>
-      <b>🛡️ Advanced Ad & Content Blocker</b>
-      <p>Universal ad blocking, tracker protection, and paywall bypass for a cleaner, faster web.</p>
-      <img src="https://img.shields.io/badge/🚫-Block_Ads-FF5252?style=flat-square">
-      <img src="https://img.shields.io/badge/🔓-Bypass_Paywalls-4CAF50?style=flat-square">
     </td>
     <td align="center" width="33%"></td>
     <td align="center" width="33%"></td>
