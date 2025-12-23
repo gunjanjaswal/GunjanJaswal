@@ -23,14 +23,16 @@ jobs:
           script: |
             const fs = require('fs');
             
-                        const { data: repos } = await github.rest.repos.listForUser({
+            const { data: repos } = await github.rest.repos.listForUser({
               username: 'gunjanjaswal',
-              sort: 'pushed',
+              sort: 'created',
               per_page: 10,
               type: 'owner'
             });
             
             const latestRepos = repos.filter(repo => !repo.fork && !repo.archived).slice(0, 3);
+            
+            
             
             const { data: events } = await github.rest.activity.listPublicEventsForUser({
               username: 'gunjanjaswal',
@@ -54,6 +56,8 @@ jobs:
                 }
               }
             }
+            
+
             
             const projectCards = latestRepos.map((repo, index) => {
               const repoName = repo.name;
@@ -79,6 +83,8 @@ jobs:
             
             const readmePath = 'README.md';
             let readme = fs.readFileSync(readmePath, 'utf8');
+            
+
             
             // Update Repos
             const repoStartMarker = '<!--START_SECTION:recent-repos-->';
