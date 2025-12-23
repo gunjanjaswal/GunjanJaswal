@@ -223,6 +223,20 @@
       <img src="https://img.shields.io/badge/🎯-Privacy_First-34A853?style=flat-square">
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp">
+        <img src="https://img.shields.io/badge/🛡️_WebArmor-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebArmor">
+      </a>
+      <br><br>
+      <b>🛡️ Advanced Ad & Content Blocker</b>
+      <p>Universal ad blocking, tracker protection, and paywall bypass for a cleaner, faster web.</p>
+      <img src="https://img.shields.io/badge/🚫-Block_Ads-FF5252?style=flat-square">
+      <img src="https://img.shields.io/badge/🔓-Bypass_Paywalls-4CAF50?style=flat-square">
+    </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
 </table>
 
 ## 🔌 WordPress Plugins
