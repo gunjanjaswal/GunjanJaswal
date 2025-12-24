@@ -178,7 +178,7 @@
 
 <!--START_SECTION:recent-commits-->
 
-<table></table>
+<p align="center">No recent public activity detected.</p>
 
 <!--END_SECTION:recent-commits-->
 
