@@ -34,9 +34,9 @@ jobs:
             
             
             
-            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+            const { data: events } = await github.rest.repos.listPublicEventsForUser({
               username: 'gunjanjaswal',
-              per_page: 50
+              per_page: 100
             });
             
             const pushEvents = events.filter(event => event.type === 'PushEvent' && event.payload && event.payload.commits && event.payload.commits.length > 0);
@@ -79,7 +79,7 @@ jobs:
               return `<tr><td width="100px"><code>${commit.sha}</code></td><td><a href="${commit.url}">${commit.message}</a></td><td>${commit.repo}</td><td align="right">${date}</td></tr>`;
             }).join('');
             
-            const commitsTableHtml = `<table>${commitsHtml}</table>`;
+            const commitsTableHtml = latestCommits.length > 0 ? `<table>${commitsHtml}</table>` : '<p align="center">No recent public activity detected.</p>';
             
             const readmePath = 'README.md';
             let readme = fs.readFileSync(readmePath, 'utf8');
