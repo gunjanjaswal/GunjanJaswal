@@ -34,7 +34,7 @@ jobs:
             
             
             
-            const { data: events } = await github.rest.repos.listPublicEventsForUser({
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
               username: 'gunjanjaswal',
               per_page: 100
             });
