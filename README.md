@@ -174,14 +174,6 @@
 
 </div>
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:recent-commits-->
-
-<p align="center">No recent public activity detected.</p>
-
-<!--END_SECTION:recent-commits-->
-
 ## 🌐 Chrome Extensions
 
 <div align="center">
