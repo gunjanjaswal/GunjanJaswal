@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswaal - Product Architect & Innovation Catalyst" width="100%">
+  <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswal - Product Architect & Innovation Catalyst" width="100%">
 </div>
 
 <div align="center">
