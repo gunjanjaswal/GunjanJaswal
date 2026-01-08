@@ -242,6 +242,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
+        <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
+      </a>
+      <br><br>
+      <b>🤖 AI-Powered Featured Images</b>
+      <p>Automatically generate beautiful featured images for your posts using AI</p>
+      <img src="https://img.shields.io/badge/🎨-AI_Generated-667eea?style=flat-square">
+      <img src="https://img.shields.io/badge/⚡-Automated-10b981?style=flat-square">
+    </td>
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/endpointy-menus/">
         <img src="https://img.shields.io/badge/🔌_Endpointy-Menus-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Endpointy Menus">
       </a>
@@ -260,16 +270,6 @@
       <p>Lead generation tool for gated content downloads with form builder</p>
       <img src="https://img.shields.io/badge/📊-Lead_Gen-4CAF50?style=flat-square">
       <img src="https://img.shields.io/badge/📝-Form_Builder-2196F3?style=flat-square">
-    </td>
-    <td align="center" width="33%">
-      <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
-        <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
-      </a>
-      <br><br>
-      <b>🎭 Emoji Reactions</b>
-      <p>Add emoji reactions to WordPress posts and pages</p>
-      <img src="https://img.shields.io/badge/💬-Engagement-FF6B6B?style=flat-square">
-      <img src="https://img.shields.io/badge/🎨-Interactive-9C27B0?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -294,6 +294,14 @@
       <img src="https://img.shields.io/badge/📊-Core_Web_Vitals-4285F4?style=flat-square">
     </td>
     <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
+        <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
+      </a>
+      <br><br>
+      <b>🎭 Emoji Reactions</b>
+      <p>Add emoji reactions to WordPress posts and pages</p>
+      <img src="https://img.shields.io/badge/💬-Engagement-FF6B6B?style=flat-square">
+      <img src="https://img.shields.io/badge/🎨-Interactive-9C27B0?style=flat-square">
     </td>
   </tr>
 </table>
