@@ -195,7 +195,7 @@
       <img src="https://img.shields.io/badge/🎯-Focus_Mode-10b981?style=flat-square">
       <br><br>
       <a href="https://chromewebstore.google.com/detail/readflow-distraction-free/ojhbhmjbjghponmcfgbjbbcongdbppml" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Extension-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+        <img src="https://img.shields.io/badge/Use_Extension-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
     <td align="center" width="33%">
@@ -209,7 +209,7 @@
       <img src="https://img.shields.io/badge/🔓-Bypass_Paywalls-4CAF50?style=flat-square">
       <br><br>
       <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Extension-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+        <img src="https://img.shields.io/badge/Use_Extension-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
     <td align="center" width="33%">
@@ -223,7 +223,7 @@
       <img src="https://img.shields.io/badge/🔒-Privacy_First-764ba2?style=flat-square">
       <br><br>
       <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Extension-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+        <img src="https://img.shields.io/badge/Use_Extension-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
   </tr>
@@ -239,7 +239,7 @@
       <img src="https://img.shields.io/badge/🎭-Anonymous-FF6B6B?style=flat-square">
       <br><br>
       <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+        <img src="https://img.shields.io/badge/Use_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
     <td align="center" width="33%">
@@ -253,7 +253,7 @@
       <img src="https://img.shields.io/badge/🎯-Privacy_First-34A853?style=flat-square">
       <br><br>
       <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Extension-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+        <img src="https://img.shields.io/badge/Use_Extension-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
     <td align="center" width="33%"></td>
@@ -281,7 +281,7 @@
       <img src="https://img.shields.io/badge/⚡-Automated-10b981?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/featured-image-creator-ai/" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
     <td align="center" width="33%">
@@ -295,7 +295,7 @@
       <img src="https://img.shields.io/badge/🎯-Headless_CMS-10b981?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/endpointy-menus/" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
     <td align="center" width="33%">
@@ -309,7 +309,7 @@
       <img src="https://img.shields.io/badge/📝-Form_Builder-2196F3?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/document-download-manager/" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
   </tr>
@@ -325,7 +325,7 @@
       <img src="https://img.shields.io/badge/📡-News_Feed-EA4335?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
     <td align="center" width="33%">
@@ -339,7 +339,7 @@
       <img src="https://img.shields.io/badge/📊-Core_Web_Vitals-4285F4?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
     <td align="center" width="33%">
@@ -353,7 +353,7 @@
       <img src="https://img.shields.io/badge/🎨-Interactive-9C27B0?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/" target="_blank">
-        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
   </tr>
