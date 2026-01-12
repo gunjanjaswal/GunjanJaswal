@@ -185,6 +185,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/readflow-distraction-free/ojhbhmjbjghponmcfgbjbbcongdbppml">
+        <img src="https://img.shields.io/badge/📖_ReadFlow-Distraction_Free_Reader-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ReadFlow">
+      </a>
+      <br><br>
+      <b>📖 Distraction-Free Reader</b>
+      <p>Transform any article into a clean, focused reading experience. Remove clutter and read in peace.</p>
+      <img src="https://img.shields.io/badge/✨-Clean_Reading-6366F1?style=flat-square">
+      <img src="https://img.shields.io/badge/🎯-Focus_Mode-10b981?style=flat-square">
+    </td>
+    <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp">
         <img src="https://img.shields.io/badge/🛡️_WebArmor-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebArmor">
       </a>
@@ -204,6 +214,8 @@
       <img src="https://img.shields.io/badge/⏱️-Unlimited_Recording-10b981?style=flat-square">
       <img src="https://img.shields.io/badge/🔒-Privacy_First-764ba2?style=flat-square">
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln">
         <img src="https://img.shields.io/badge/🛡️_BurnerBuddy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BurnerBuddy">
@@ -214,8 +226,6 @@
       <img src="https://img.shields.io/badge/✉️-Temp_Email-4285F4?style=flat-square">
       <img src="https://img.shields.io/badge/🎭-Anonymous-FF6B6B?style=flat-square">
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
         <img src="https://img.shields.io/badge/🍪_JustSayNo-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="JustSayNo">
@@ -226,7 +236,6 @@
       <img src="https://img.shields.io/badge/⚡-Auto_Reject-EA4335?style=flat-square">
       <img src="https://img.shields.io/badge/🎯-Privacy_First-34A853?style=flat-square">
     </td>
-    <td align="center" width="33%"></td>
     <td align="center" width="33%"></td>
   </tr>
 </table>
