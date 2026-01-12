@@ -193,6 +193,10 @@
       <p>Transform any article into a clean, focused reading experience. Remove clutter and read in peace.</p>
       <img src="https://img.shields.io/badge/✨-Clean_Reading-6366F1?style=flat-square">
       <img src="https://img.shields.io/badge/🎯-Focus_Mode-10b981?style=flat-square">
+      <br><br>
+      <a href="https://chromewebstore.google.com/detail/readflow-distraction-free/ojhbhmjbjghponmcfgbjbbcongdbppml" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Extension-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp">
@@ -203,6 +207,10 @@
       <p>Universal ad blocking, tracker protection, and paywall bypass for a cleaner, faster web.</p>
       <img src="https://img.shields.io/badge/🚫-Block_Ads-FF5252?style=flat-square">
       <img src="https://img.shields.io/badge/🔓-Bypass_Paywalls-4CAF50?style=flat-square">
+      <br><br>
+      <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Extension-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf">
@@ -213,6 +221,10 @@
       <p>100% Free screen recording with unlimited time. No watermarks, no restrictions. Private and simple.</p>
       <img src="https://img.shields.io/badge/⏱️-Unlimited_Recording-10b981?style=flat-square">
       <img src="https://img.shields.io/badge/🔒-Privacy_First-764ba2?style=flat-square">
+      <br><br>
+      <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Extension-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+      </a>
     </td>
   </tr>
   <tr>
@@ -225,6 +237,10 @@
       <p>Your friendly privacy companion - fills forms with temporary data and provides a disposable inbox</p>
       <img src="https://img.shields.io/badge/✉️-Temp_Email-4285F4?style=flat-square">
       <img src="https://img.shields.io/badge/🎭-Anonymous-FF6B6B?style=flat-square">
+      <br><br>
+      <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
@@ -235,6 +251,10 @@
       <p>Automatically clicks 'Reject All' on cookie banners. Take back your privacy, one click at a time.</p>
       <img src="https://img.shields.io/badge/⚡-Auto_Reject-EA4335?style=flat-square">
       <img src="https://img.shields.io/badge/🎯-Privacy_First-34A853?style=flat-square">
+      <br><br>
+      <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Extension-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+      </a>
     </td>
     <td align="center" width="33%"></td>
   </tr>
@@ -259,6 +279,10 @@
       <p>Automatically generate beautiful featured images for your posts using AI</p>
       <img src="https://img.shields.io/badge/🎨-AI_Generated-667eea?style=flat-square">
       <img src="https://img.shields.io/badge/⚡-Automated-10b981?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/featured-image-creator-ai/" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/endpointy-menus/">
@@ -269,6 +293,10 @@
       <p>Expose WordPress menus via REST API for headless CMS and decoupled applications</p>
       <img src="https://img.shields.io/badge/🔗-REST_API-667eea?style=flat-square">
       <img src="https://img.shields.io/badge/🎯-Headless_CMS-10b981?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/endpointy-menus/" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/document-download-manager/">
@@ -279,6 +307,10 @@
       <p>Lead generation tool for gated content downloads with form builder</p>
       <img src="https://img.shields.io/badge/📊-Lead_Gen-4CAF50?style=flat-square">
       <img src="https://img.shields.io/badge/📝-Form_Builder-2196F3?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/document-download-manager/" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
     </td>
   </tr>
   <tr>
@@ -291,6 +323,10 @@
       <p>Generates a Google News compatible XML sitemap for better news content indexing</p>
       <img src="https://img.shields.io/badge/🔍-SEO-FF9800?style=flat-square">
       <img src="https://img.shields.io/badge/📡-News_Feed-EA4335?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
@@ -301,6 +337,10 @@
       <p>Automatically adds fetchpriority="high" to featured images to improve Core Web Vitals</p>
       <img src="https://img.shields.io/badge/⚡-Performance-10b981?style=flat-square">
       <img src="https://img.shields.io/badge/📊-Core_Web_Vitals-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/fetchpriority-featured-image/" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
@@ -311,6 +351,10 @@
       <p>Add emoji reactions to WordPress posts and pages</p>
       <img src="https://img.shields.io/badge/💬-Engagement-FF6B6B?style=flat-square">
       <img src="https://img.shields.io/badge/🎨-Interactive-9C27B0?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/" target="_blank">
+        <img src="https://img.shields.io/badge/�_Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
     </td>
   </tr>
 </table>
