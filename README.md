@@ -185,6 +185,20 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/promptvault-ai-prompt-lib/dnedgbcncppfkealibjjfjjiiinhmiag">
+        <img src="https://img.shields.io/badge/💡_PromptVault-AI_Prompt_Library-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PromptVault">
+      </a>
+      <br><br>
+      <b>💡 AI Prompt Library</b>
+      <p>Your personal AI prompt library. Save, organize, and reuse your best prompts across ChatGPT, Claude, and Gemini.</p>
+      <img src="https://img.shields.io/badge/📚-Prompt_Library-9333EA?style=flat-square">
+      <img src="https://img.shields.io/badge/🤖-Multi_AI-10b981?style=flat-square">
+      <br><br>
+      <a href="https://chromewebstore.google.com/detail/promptvault-ai-prompt-lib/dnedgbcncppfkealibjjfjjiiinhmiag" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Extension-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/readflow-distraction-free/ojhbhmjbjghponmcfgbjbbcongdbppml">
         <img src="https://img.shields.io/badge/📖_ReadFlow-Distraction_Free_Reader-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ReadFlow">
       </a>
@@ -212,6 +226,8 @@
         <img src="https://img.shields.io/badge/Use_Extension-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf">
         <img src="https://img.shields.io/badge/🎬_QuickReel-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="QuickReel">
@@ -226,8 +242,6 @@
         <img src="https://img.shields.io/badge/Use_Extension-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln">
         <img src="https://img.shields.io/badge/🛡️_BurnerBuddy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BurnerBuddy">
@@ -256,7 +270,6 @@
         <img src="https://img.shields.io/badge/Use_Extension-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-    <td align="center" width="33%"></td>
   </tr>
 </table>
 
