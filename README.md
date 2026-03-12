@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gunjanjaswal/gunjanjaswal/main/github-header-banner.png" alt="Gunjan Jaswal - Product Architect & Innovation Catalyst" width="100%">
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Product+Architect;Innovation+AI+Catalyst;Transforming+Digital+Landscapes" alt="Typing SVG" /></a>
 </div>
 
