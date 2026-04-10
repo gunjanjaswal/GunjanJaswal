@@ -280,16 +280,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
-        <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
+      <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
+        <img src="https://img.shields.io/badge/☁️_G33ki_Cloud-Storage_for_Media-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="G33ki Cloud Storage for Media Library">
       </a>
       <br><br>
-      <b>🤖 AI-Powered Featured Images</b>
-      <p>Automatically generate beautiful featured images for your posts using AI</p>
-      <img src="https://img.shields.io/badge/🎨-AI_Generated-667eea?style=flat-square">
-      <img src="https://img.shields.io/badge/⚡-Automated-10b981?style=flat-square">
+      <b>☁️ Cloud Storage for Media Library</b>
+      <p>Seamlessly offload WordPress media to cloud storage for better performance and scalability</p>
+      <img src="https://img.shields.io/badge/☁️-Cloud_Storage-4285F4?style=flat-square">
+      <img src="https://img.shields.io/badge/⚡-Performance-10b981?style=flat-square">
       <br><br>
-      <a href="https://wordpress.org/plugins/featured-image-creator-ai/" target="_blank">
+      <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/" target="_blank">
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
@@ -365,6 +365,24 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
+        <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
+      </a>
+      <br><br>
+      <b>🤖 AI-Powered Featured Images</b>
+      <p>Automatically generate beautiful featured images for your posts using AI</p>
+      <img src="https://img.shields.io/badge/🎨-AI_Generated-667eea?style=flat-square">
+      <img src="https://img.shields.io/badge/⚡-Automated-10b981?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/featured-image-creator-ai/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
   </tr>
 </table>
 
