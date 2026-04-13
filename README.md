@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 💼 Product Architect & AI Innovation Catalyst
+### 💼 Product Architect & Innovation AI Catalyst
 
 </div>
 
