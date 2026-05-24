@@ -280,6 +280,34 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/xml-nest-creator/">
+        <img src="https://img.shields.io/badge/🪺_XML_Nest-Creator-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="XML Nest Creator">
+      </a>
+      <br><br>
+      <b>🪺 Conflict-Free XML Sitemaps</b>
+      <p>Lightweight, conflict-free environment to hatch perfectly structured XML sitemaps</p>
+      <img src="https://img.shields.io/badge/🗺️-Sitemaps-FF9800?style=flat-square">
+      <img src="https://img.shields.io/badge/🪶-Lightweight-10b981?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/xml-nest-creator/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/staticforge-for-cloudflare-pages/">
+        <img src="https://img.shields.io/badge/⚡_StaticForge-Cloudflare_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="StaticForge for Cloudflare Pages">
+      </a>
+      <br><br>
+      <b>☁️ WP → Static → Cloudflare</b>
+      <p>Auto-export WordPress site as static HTML and deploy to Cloudflare Pages on publish</p>
+      <img src="https://img.shields.io/badge/☁️-Cloudflare-F38020?style=flat-square">
+      <img src="https://img.shields.io/badge/⚡-Static_Export-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/staticforge-for-cloudflare-pages/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
         <img src="https://img.shields.io/badge/☁️_G33ki_Cloud-Storage_for_Media-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="G33ki Cloud Storage for Media Library">
       </a>
@@ -293,6 +321,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/endpointy-menus/">
         <img src="https://img.shields.io/badge/🔌_Endpointy-Menus-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Endpointy Menus">
@@ -321,8 +351,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
         <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
@@ -337,6 +365,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
         <img src="https://img.shields.io/badge/⚡_FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
@@ -365,8 +395,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
         <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
@@ -381,8 +409,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
   </tr>
 </table>
 
@@ -444,8 +470,8 @@
 If you find my projects helpful and would like to support my work:
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/gunjanjaswal">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  <a href="https://ko-fi.com/gunjanjaswal">
+    <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </div>
 
