@@ -381,8 +381,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
         <img src="https://img.shields.io/badge/⚡_FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
