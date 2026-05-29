@@ -280,6 +280,20 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/quillrush-newsletter-studio-for-sendy/">
+        <img src="https://img.shields.io/badge/📧_Quillrush_Newsletter-Studio_for_Sendy-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Quillrush Newsletter Studio for Sendy">
+      </a>
+      <br><br>
+      <b>📧 Newsletter Studio for Sendy</b>
+      <p>Build responsive HTML newsletters from your posts and send via self-hosted Sendy + Amazon SES</p>
+      <img src="https://img.shields.io/badge/📨-Email_Marketing-EA4335?style=flat-square">
+      <img src="https://img.shields.io/badge/☁️-Amazon_SES-FF9900?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/quillrush-newsletter-studio-for-sendy/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/xml-nest-creator/">
         <img src="https://img.shields.io/badge/🪺_XML_Nest-Creator-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="XML Nest Creator">
       </a>
@@ -307,6 +321,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
         <img src="https://img.shields.io/badge/☁️_G33ki_Cloud-Storage_for_Media-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="G33ki Cloud Storage for Media Library">
@@ -321,8 +337,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/endpointy-menus/">
         <img src="https://img.shields.io/badge/🔌_Endpointy-Menus-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Endpointy Menus">
@@ -351,6 +365,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
         <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
@@ -395,6 +411,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
         <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
