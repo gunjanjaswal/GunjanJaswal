@@ -436,9 +436,10 @@
 
 </div>
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="350">
       <a href="https://bloodtypinggame.com/">
         <img src="https://img.shields.io/badge/Blood_Typing-Game-DC2626?style=for-the-badge&logo=html5&logoColor=white" alt="Blood Typing Game">
       </a>
@@ -456,6 +457,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## 🎓 Education & Certifications
 
