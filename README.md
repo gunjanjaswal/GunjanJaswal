@@ -428,6 +428,35 @@
   </tr>
 </table>
 
+## 🌐 Websites
+
+<div align="center">
+
+### 🚀 Featured Websites
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://bloodtypinggame.com/">
+        <img src="https://img.shields.io/badge/Blood_Typing-Game-DC2626?style=for-the-badge&logo=html5&logoColor=white" alt="Blood Typing Game">
+      </a>
+      <br><br>
+      <strong>🩸 Blood Typing Game</strong>
+      <br>
+      <em>Interactive game to learn blood types, compatibility and transfusion rules through hands-on play</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/🎓-Education-3B82F6?style=flat-square">
+      <img src="https://img.shields.io/badge/🎮-Interactive-9333EA?style=flat-square">
+      <br><br>
+      <a href="https://bloodtypinggame.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Site-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🎓 Education & Certifications
 
 <div align="center">
