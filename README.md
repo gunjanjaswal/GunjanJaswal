@@ -160,7 +160,6 @@
 
 ## ️ Recent Projects
 
-
 <div align="center">
 <!--START_SECTION:recent-repos-->
 
@@ -170,17 +169,7 @@
 
 </div>
 
-## \U0001F4C8 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#323672](https://github.com/microsoft/vscode/pull/323672#issuecomment-4840717067) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#175167](https://github.com/home-assistant/core/issues/175167#issuecomment-4840704610) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#175180](https://github.com/home-assistant/core/pull/175180) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 💪 Opened PR [#323672](https://github.com/microsoft/vscode/pull/323672) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#13984](https://github.com/PaperMC/Paper/issues/13984#issuecomment-4840372810) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
-<!--END_SECTION:activity-->
-
-## \U0001F310 Chrome Extensions
+## 🌐 Chrome Extensions
 
 <div align="center">
 
