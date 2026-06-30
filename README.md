@@ -170,7 +170,12 @@
 
 </div>
 
-## 🌐 Chrome Extensions
+## \U0001F4C8 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## \U0001F310 Chrome Extensions
 
 <div align="center">
 
