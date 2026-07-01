@@ -169,6 +169,20 @@
 
 </div>
 
+## 🌐 Open Source Contributions
+
+<div align="center">
+<a href="https://github.com/home-assistant/core/pull/175180" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="46" alt="Home Assistant"></a> &nbsp;
+</div>
+
+<div align="center">
+
+| Project | Contribution | PR |
+|:--|:--|:--:|
+| **Home Assistant** | HomeKit thermostat fan-mode casing bug + regression test | [#175180](https://github.com/home-assistant/core/pull/175180) |
+
+</div>
+
 ## 🌐 Chrome Extensions
 
 <div align="center">
