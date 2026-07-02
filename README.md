@@ -161,27 +161,24 @@
 ## 🤝 Open Source Contributions
 
 <div align="center">
-<a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="48" alt="Home Assistant"></a>
-</div>
-
-<div align="center">
-
-| Home Assistant | PR |
-|:--|:--:|
-| HomeKit thermostat fan-mode casing bug + regression test | [#175180](https://github.com/home-assistant/core/pull/175180) |
-
-</div>
-
-<div align="center">
-<a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="48" alt="career-ops"></a>
-</div>
-
-<div align="center">
-
-| career-ops | PR |
-|:--|:--:|
-| Follow-up cadence bug fix + test | [#1352](https://github.com/santifer/career-ops/pull/1352) |
-
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="48" alt="Home Assistant"></a>
+      <table>
+        <tr><th align="left">Home Assistant</th><th>PR</th></tr>
+        <tr><td align="left">HomeKit thermostat fan-mode casing bug + regression test</td><td align="center"><a href="https://github.com/home-assistant/core/pull/175180">#175180</a></td></tr>
+      </table>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="48" alt="career-ops"></a>
+      <table>
+        <tr><th align="left">career-ops</th><th>PR</th></tr>
+        <tr><td align="left">Follow-up cadence bug fix + test</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1352">#1352</a></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 📂 Recent Projects
