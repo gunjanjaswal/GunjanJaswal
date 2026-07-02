@@ -12,6 +12,17 @@ module.exports = async ({ github, core }) => {
     'home-assistant/core#175180': 'HomeKit thermostat fan-mode casing bug + regression test',
     'santifer/career-ops#1352': 'Follow-up cadence bug fix + test',
   };
+  // Nicer display labels per owner; falls back to the owner login.
+  const DISPLAY_NAMES = {
+    'home-assistant': 'Home Assistant',
+    santifer: 'career-ops',
+    facebook: 'Meta',
+    google: 'Google',
+    microsoft: 'Microsoft',
+    WordPress: 'WordPress',
+    PaperMC: 'PaperMC',
+  };
+  const displayName = (owner) => DISPLAY_NAMES[owner] || owner;
 
   // Collect all merged PRs authored by USER.
   const items = [];
@@ -50,6 +61,7 @@ module.exports = async ({ github, core }) => {
   const orgs = [...byOrg.values()].sort((a, b) => b.latest - a.latest);
 
   const card = (o) => {
+    const dn = displayName(o.owner);
     const rows = o.prs
       .sort((a, b) => a.number - b.number)
       .map((p) => {
@@ -70,15 +82,15 @@ module.exports = async ({ github, core }) => {
       '      <a href="https://github.com/' +
       o.owner +
       '" title="' +
-      esc(o.owner) +
+      esc(dn) +
       '"><img src="https://github.com/' +
       o.owner +
       '.png" width="48" alt="' +
-      esc(o.owner) +
+      esc(dn) +
       '"></a>\n' +
       '      <table>\n' +
       '        <tr><th align="left">' +
-      esc(o.owner) +
+      esc(dn) +
       '</th><th>PR</th></tr>\n' +
       rows +
       '\n      </table>\n' +
