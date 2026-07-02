@@ -305,6 +305,20 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://wordpress.org/plugins/queueforge-inp-fixer/">
+        <img src="https://img.shields.io/badge/🚀_QueueForge-INP_Fixer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="QueueForge INP Fixer">
+      </a>
+      <br><br>
+      <b>⚡ Interaction to Next Paint Fixer</b>
+      <p>Delays non-essential JavaScript until user interaction, then yields to the main thread to improve Google's INP Core Web Vitals</p>
+      <img src="https://img.shields.io/badge/⚡-Performance-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/📊-Core_Web_Vitals-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/queueforge-inp-fixer/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/quillrush-newsletter-studio-for-sendy/">
         <img src="https://img.shields.io/badge/📧_Quillrush_Newsletter-Studio_for_Sendy-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Quillrush Newsletter Studio for Sendy">
       </a>
@@ -332,6 +346,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/staticforge-for-cloudflare-pages/">
         <img src="https://img.shields.io/badge/⚡_StaticForge-Cloudflare_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="StaticForge for Cloudflare Pages">
@@ -346,8 +362,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
         <img src="https://img.shields.io/badge/☁️_G33ki_Cloud-Storage_for_Media-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="G33ki Cloud Storage for Media Library">
@@ -376,6 +390,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/document-download-manager/">
         <img src="https://img.shields.io/badge/📥_Document_Download-Manager-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Document Download Manager">
@@ -390,8 +406,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
         <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
@@ -420,6 +434,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
         <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
@@ -434,8 +450,6 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
         <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
