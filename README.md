@@ -165,16 +165,16 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/santifer" title="santifer"><img src="https://github.com/santifer.png" width="48" alt="santifer"></a>
+      <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="48" alt="career-ops"></a>
       <table>
-        <tr><th align="left">santifer</th><th>PR</th></tr>
+        <tr><th align="left">career-ops</th><th>PR</th></tr>
         <tr><td align="left">Follow-up cadence bug fix + test</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1352">#1352</a></td></tr>
       </table>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/home-assistant" title="home-assistant"><img src="https://github.com/home-assistant.png" width="48" alt="home-assistant"></a>
+      <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="48" alt="Home Assistant"></a>
       <table>
-        <tr><th align="left">home-assistant</th><th>PR</th></tr>
+        <tr><th align="left">Home Assistant</th><th>PR</th></tr>
         <tr><td align="left">HomeKit thermostat fan-mode casing bug + regression test</td><td align="center"><a href="https://github.com/home-assistant/core/pull/175180">#175180</a></td></tr>
       </table>
     </td>
