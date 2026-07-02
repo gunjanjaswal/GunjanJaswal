@@ -172,6 +172,18 @@
 
 </div>
 
+<div align="center">
+<a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="48" alt="career-ops"></a>
+</div>
+
+<div align="center">
+
+| career-ops | PR |
+|:--|:--:|
+| Follow-up cadence bug fix + test | [#1352](https://github.com/santifer/career-ops/pull/1352) |
+
+</div>
+
 ## 📂 Recent Projects
 
 <div align="center">
