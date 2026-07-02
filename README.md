@@ -165,12 +165,21 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="48" alt="PaperMC"></a>
+      <table>
+        <tr><th align="left">PaperMC</th><th>PR</th></tr>
+        <tr><td align="left">Connection-throttle cleanup fix (per-IP anti-DoS)</td><td align="center"><a href="https://github.com/PaperMC/Paper/pull/14011">#14011</a></td></tr>
+      </table>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="48" alt="career-ops"></a>
       <table>
         <tr><th align="left">career-ops</th><th>PR</th></tr>
         <tr><td align="left">Follow-up cadence bug fix + test</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1352">#1352</a></td></tr>
       </table>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="48" alt="Home Assistant"></a>
       <table>
