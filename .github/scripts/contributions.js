@@ -11,6 +11,7 @@ module.exports = async ({ github, core }) => {
   const OVERRIDES = {
     'home-assistant/core#175180': 'HomeKit thermostat fan-mode casing bug + regression test',
     'santifer/career-ops#1352': 'Follow-up cadence bug fix + test',
+    'PaperMC/Paper#14011': 'Connection-throttle cleanup fix (per-IP anti-DoS)',
   };
   // Nicer display labels per owner; falls back to the owner login.
   const DISPLAY_NAMES = {
