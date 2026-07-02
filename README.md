@@ -158,6 +158,7 @@
 
 </div>
 
+<!--START_SECTION:oss-contributions-->
 ## 🤝 Open Source Contributions
 
 <div align="center">
@@ -180,6 +181,8 @@
   </tr>
 </table>
 </div>
+
+<!--END_SECTION:oss-contributions-->
 
 ## 📂 Recent Projects
 
