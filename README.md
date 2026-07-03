@@ -165,10 +165,10 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="48" alt="PaperMC"></a>
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="48" alt="Meta"></a>
       <table>
-        <tr><th align="left">PaperMC</th><th>PR</th></tr>
-        <tr><td align="left">Connection-throttle cleanup fix (per-IP anti-DoS)</td><td align="center"><a href="https://github.com/PaperMC/Paper/pull/14011">#14011</a></td></tr>
+        <tr><th align="left">Meta</th><th>PR</th></tr>
+        <tr><td align="left">fix(utils): stop createExcerpt leaking a multi-line JSX element into the description</td><td align="center"><a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a></td></tr>
       </table>
     </td>
     <td align="center" valign="top" width="50%">
@@ -176,10 +176,18 @@
       <table>
         <tr><th align="left">career-ops</th><th>PR</th></tr>
         <tr><td align="left">Follow-up cadence bug fix + test</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1352">#1352</a></td></tr>
+        <tr><td align="left">feat(providers): add Get on Board (getonbrd) zero-auth provider</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1442">#1442</a></td></tr>
       </table>
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="48" alt="PaperMC"></a>
+      <table>
+        <tr><th align="left">PaperMC</th><th>PR</th></tr>
+        <tr><td align="left">Connection-throttle cleanup fix (per-IP anti-DoS)</td><td align="center"><a href="https://github.com/PaperMC/Paper/pull/14011">#14011</a></td></tr>
+      </table>
+    </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="48" alt="Home Assistant"></a>
       <table>
