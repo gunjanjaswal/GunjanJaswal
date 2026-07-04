@@ -162,38 +162,38 @@
 ## 🤝 Open Source Contributions
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="48" alt="Meta"></a>
-      <table>
-        <tr><th align="left">Meta</th><th>PR</th></tr>
-        <tr><td align="left">fix(utils): stop createExcerpt leaking a multi-line JSX element into the description</td><td align="center"><a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a></td></tr>
-      </table>
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
+      </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="48" alt="career-ops"></a>
-      <table>
-        <tr><th align="left">career-ops</th><th>PR</th></tr>
-        <tr><td align="left">Follow-up cadence bug fix + test</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1352">#1352</a></td></tr>
-        <tr><td align="left">feat(providers): add Get on Board (getonbrd) zero-auth provider</td><td align="center"><a href="https://github.com/santifer/career-ops/pull/1442">#1442</a></td></tr>
-      </table>
+      <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
+      <br><b>career-ops</b><br><br>
+      <div align="left">
+        <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
+        <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="48" alt="PaperMC"></a>
-      <table>
-        <tr><th align="left">PaperMC</th><th>PR</th></tr>
-        <tr><td align="left">Connection-throttle cleanup fix (per-IP anti-DoS)</td><td align="center"><a href="https://github.com/PaperMC/Paper/pull/14011">#14011</a></td></tr>
-      </table>
+      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
+      <br><b>PaperMC</b><br><br>
+      <div align="left">
+        <a href="https://github.com/PaperMC/Paper/pull/14011">#14011</a> Connection-throttle cleanup fix (per-IP anti-DoS)<br>
+      </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="48" alt="Home Assistant"></a>
-      <table>
-        <tr><th align="left">Home Assistant</th><th>PR</th></tr>
-        <tr><td align="left">HomeKit thermostat fan-mode casing bug + regression test</td><td align="center"><a href="https://github.com/home-assistant/core/pull/175180">#175180</a></td></tr>
-      </table>
+      <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
+      <br><b>Home Assistant</b><br><br>
+      <div align="left">
+        <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
+      </div>
     </td>
   </tr>
 </table>

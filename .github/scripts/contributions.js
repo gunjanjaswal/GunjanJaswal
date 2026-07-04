@@ -11,7 +11,9 @@ module.exports = async ({ github, core }) => {
   const OVERRIDES = {
     'home-assistant/core#175180': 'HomeKit thermostat fan-mode casing bug + regression test',
     'santifer/career-ops#1352': 'Follow-up cadence bug fix + test',
+    'santifer/career-ops#1442': 'Get on Board zero-auth job provider',
     'PaperMC/Paper#14011': 'Connection-throttle cleanup fix (per-IP anti-DoS)',
+    'facebook/docusaurus#12215': 'createExcerpt multi-line JSX leak fix',
   };
   // Nicer display labels per owner; falls back to the owner login.
   const DISPLAY_NAMES = {
@@ -61,21 +63,15 @@ module.exports = async ({ github, core }) => {
 
   const orgs = [...byOrg.values()].sort((a, b) => b.latest - a.latest);
 
+  // One card per org. No nested <table>: long PR titles wrap as plain lines
+  // inside the 50%-wide cell, so the section never forces a horizontal scroll.
   const card = (o) => {
     const dn = displayName(o.owner);
-    const rows = o.prs
+    const lines = o.prs
       .sort((a, b) => a.number - b.number)
       .map((p) => {
         const desc = OVERRIDES[`${o.owner}/${p.repo}#${p.number}`] || p.title;
-        return (
-          '        <tr><td align="left">' +
-          esc(desc) +
-          '</td><td align="center"><a href="' +
-          p.url +
-          '">#' +
-          p.number +
-          '</a></td></tr>'
-        );
+        return '        <a href="' + p.url + '">#' + p.number + '</a> ' + esc(desc) + '<br>';
       })
       .join('\n');
     return (
@@ -86,15 +82,15 @@ module.exports = async ({ github, core }) => {
       esc(dn) +
       '"><img src="https://github.com/' +
       o.owner +
-      '.png" width="48" alt="' +
+      '.png" width="42" alt="' +
       esc(dn) +
       '"></a>\n' +
-      '      <table>\n' +
-      '        <tr><th align="left">' +
+      '      <br><b>' +
       esc(dn) +
-      '</th><th>PR</th></tr>\n' +
-      rows +
-      '\n      </table>\n' +
+      '</b><br><br>\n' +
+      '      <div align="left">\n' +
+      lines +
+      '\n      </div>\n' +
       '    </td>'
     );
   };
@@ -106,7 +102,7 @@ module.exports = async ({ github, core }) => {
   }
 
   const section = orgs.length
-    ? '## 🤝 Open Source Contributions\n\n<div align="center">\n<table>\n' + rowsHtml + '</table>\n</div>'
+    ? '## 🤝 Open Source Contributions\n\n<div align="center">\n<table width="100%">\n' + rowsHtml + '</table>\n</div>'
     : '## 🤝 Open Source Contributions\n\n_No merged external contributions yet._';
 
   const START = '<!--START_SECTION:oss-contributions-->';
