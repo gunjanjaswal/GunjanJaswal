@@ -46,6 +46,8 @@
 </tr>
 </table>
 
+<br>
+
 ## 💼 Professional Experience
 
 <div align="center">
@@ -69,6 +71,8 @@
 
 </div>
 
+<br>
+
 ## 🔧 Skills & Technologies
 
 <div align="center">
@@ -82,6 +86,8 @@
 
 </div>
 
+<br>
+
 ## 💼 Product Management
 
 <div align="center">
@@ -94,6 +100,8 @@
 | **Analytics** | <img src="https://img.shields.io/badge/Product_Metrics-03A9F4?style=flat-square"> <img src="https://img.shields.io/badge/A/B_Testing-673AB7?style=flat-square"> <img src="https://img.shields.io/badge/Data_Driven_Decisions-2196F3?style=flat-square"> <img src="https://img.shields.io/badge/Growth_Hacking-FF9800?style=flat-square"> |
 
 </div>
+
+<br>
 
 ## 🏆 Key Achievements
 
@@ -158,6 +166,8 @@
 
 </div>
 
+<br>
+
 <!--START_SECTION:oss-contributions-->
 ## 🤝 Open Source Contributions
 
@@ -200,6 +210,8 @@
 </div>
 <!--END_SECTION:oss-contributions-->
 
+<br>
+
 ## 📂 Recent Projects
 
 <div align="center">
@@ -211,7 +223,9 @@
 
 </div>
 
-## 🌐 Chrome Extensions
+<br>
+
+## <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="28" align="top" /> Chrome Extensions
 
 <div align="center">
 
@@ -317,7 +331,9 @@
   </tr>
 </table>
 
-## 🔌 WordPress Plugins
+<br>
+
+## <img src="https://cdn.simpleicons.org/wordpress/21759B" height="28" align="top" /> WordPress Plugins
 
 <div align="center">
 
@@ -506,6 +522,8 @@
   </tr>
 </table>
 
+<br>
+
 ## 🌐 Websites
 
 <div align="center">
@@ -536,6 +554,8 @@
   </tr>
 </table>
 </div>
+
+<br>
 
 ## 🎓 Education & Certifications
 
@@ -590,6 +610,8 @@
 </tr>
 </table>
 
+<br>
+
 ## 💖 Support My Work
 
 If you find my projects helpful and would like to support my work:
@@ -599,6 +621,8 @@ If you find my projects helpful and would like to support my work:
     <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </div>
+
+<br>
 
 ## 📫 Connect With Me
 
@@ -634,6 +658,8 @@ If you find my projects helpful and would like to support my work:
 </table>
 
 </div>
+
+<br>
 
 ## 🤪 Just for Fun
 
