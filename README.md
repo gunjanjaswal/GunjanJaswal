@@ -219,9 +219,9 @@
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="46%">
       <a href="https://chromewebstore.google.com/detail/promptvault-ai-prompt-lib/dnedgbcncppfkealibjjfjjiiinhmiag">
         <img src="https://img.shields.io/badge/💡_PromptVault-AI_Prompt_Library-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PromptVault">
       </a>
@@ -235,7 +235,8 @@
         <img src="https://img.shields.io/badge/Use_Extension-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://chromewebstore.google.com/detail/readflow-distraction-free/ojhbhmjbjghponmcfgbjbbcongdbppml">
         <img src="https://img.shields.io/badge/📖_ReadFlow-Distraction_Free_Reader-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ReadFlow">
       </a>
@@ -249,7 +250,10 @@
         <img src="https://img.shields.io/badge/Use_Extension-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://chromewebstore.google.com/detail/webarmor/cmeaalmogekohkcekhcknpeigjdfhjpp">
         <img src="https://img.shields.io/badge/🛡️_WebArmor-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebArmor">
       </a>
@@ -263,9 +267,8 @@
         <img src="https://img.shields.io/badge/Use_Extension-2B3A42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf">
         <img src="https://img.shields.io/badge/🎬_QuickReel-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="QuickReel">
       </a>
@@ -279,7 +282,10 @@
         <img src="https://img.shields.io/badge/Use_Extension-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://chromewebstore.google.com/detail/burnerbuddy/nljamhbbllnligdkpdeeehddmpcpohln">
         <img src="https://img.shields.io/badge/🛡️_BurnerBuddy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BurnerBuddy">
       </a>
@@ -293,7 +299,8 @@
         <img src="https://img.shields.io/badge/Use_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Use Extension">
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://chromewebstore.google.com/detail/justsayno-cookie-banner-r/miemfdjknfhkojieajcjladpdcbieach">
         <img src="https://img.shields.io/badge/🍪_JustSayNo-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="JustSayNo">
       </a>
@@ -318,9 +325,9 @@
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/queueforge-inp-fixer/">
         <img src="https://img.shields.io/badge/🚀_QueueForge-INP_Fixer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="QueueForge INP Fixer">
       </a>
@@ -334,7 +341,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/quillrush-newsletter-studio-for-sendy/">
         <img src="https://img.shields.io/badge/📧_Quillrush_Newsletter-Studio_for_Sendy-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Quillrush Newsletter Studio for Sendy">
       </a>
@@ -348,7 +356,10 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/xml-nest-creator/">
         <img src="https://img.shields.io/badge/🪺_XML_Nest-Creator-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="XML Nest Creator">
       </a>
@@ -362,9 +373,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/staticforge-for-cloudflare-pages/">
         <img src="https://img.shields.io/badge/⚡_StaticForge-Cloudflare_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="StaticForge for Cloudflare Pages">
       </a>
@@ -378,7 +388,10 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
         <img src="https://img.shields.io/badge/☁️_G33ki_Cloud-Storage_for_Media-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="G33ki Cloud Storage for Media Library">
       </a>
@@ -392,7 +405,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/endpointy-menus/">
         <img src="https://img.shields.io/badge/🔌_Endpointy-Menus-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Endpointy Menus">
       </a>
@@ -407,8 +421,9 @@
       </a>
     </td>
   </tr>
+  <tr><td colspan="3"><br></td></tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/document-download-manager/">
         <img src="https://img.shields.io/badge/📥_Document_Download-Manager-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Document Download Manager">
       </a>
@@ -422,7 +437,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
         <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
       </a>
@@ -436,7 +452,10 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
         <img src="https://img.shields.io/badge/⚡_FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
       </a>
@@ -450,9 +469,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
         <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
       </a>
@@ -466,7 +484,10 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
         <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
       </a>
@@ -480,6 +501,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+    <td width="8%"></td>
+    <td width="46%"></td>
   </tr>
 </table>
 
