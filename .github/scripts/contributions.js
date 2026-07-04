@@ -105,8 +105,8 @@ module.exports = async ({ github, core }) => {
   }
 
   const section = orgs.length
-    ? '## 🤝 Open Source Contributions\n\n<div align="center">\n<table width="100%">\n' + rowsHtml + '</table>\n</div>'
-    : '## 🤝 Open Source Contributions\n\n_No merged external contributions yet._';
+    ? '## <img src="https://cdn.simpleicons.org/github/8b949e" height="26" align="top" /> Open Source Contributions\n\n<div align="center">\n<table width="100%">\n' + rowsHtml + '</table>\n</div>'
+    : '## <img src="https://cdn.simpleicons.org/github/8b949e" height="26" align="top" /> Open Source Contributions\n\n_No merged external contributions yet._';
 
   const START = '<!--START_SECTION:oss-contributions-->';
   const END = '<!--END_SECTION:oss-contributions-->';

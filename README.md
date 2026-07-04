@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9333EA&height=200&section=header&text=Gunjan%20Jaswal&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Product%20Architect%20%C2%B7%20AI%20Innovation%20Catalyst%20%C2%B7%2016%2B%20Years%20Shipping&descSize=16&descAlignY=58" alt="Gunjan Jaswal" />
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Product+Architect;Innovation+AI+Catalyst;Transforming+Digital+Landscapes" alt="Typing SVG" /></a>
 </div>
@@ -77,12 +79,11 @@
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages & Frameworks** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"> |
-| **AI & Data** | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-00FFFF?style=flat-square"> <img src="https://img.shields.io/badge/Vector_Databases-FF6B6B?style=flat-square"> <img src="https://img.shields.io/badge/RAG_Systems-4285F4?style=flat-square"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> |
-| **Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"> |
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,react,nodejs,wordpress,mysql&perline=8" alt="Languages & frameworks" />
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,git,figma,notion&perline=8" alt="Cloud, DevOps & tools" />
+<br><br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/RAG_Systems-4285F4?style=flat-square"> <img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=flat-square">
 
 </div>
 
@@ -168,8 +169,18 @@
 
 <br>
 
+## <img src="https://cdn.simpleicons.org/github/8b949e" height="26" align="top" /> GitHub Stats
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<br><br>
+<img src="https://streak-stats.demolab.com/?user=gunjanjaswal&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+</div>
+
+<br>
+
 <!--START_SECTION:oss-contributions-->
-## 🤝 Open Source Contributions
+## <img src="https://cdn.simpleicons.org/github/8b949e" height="26" align="top" /> Open Source Contributions
 
 <div align="center">
 <table width="100%">
