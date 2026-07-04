@@ -32,6 +32,9 @@ module.exports = async ({ github, core }) => {
   for (let page = 1; page <= 10; page++) {
     const res = await github.rest.search.issuesAndPullRequests({
       q: `type:pr is:merged author:${USER}`,
+      // GitHub is migrating the issue/PR search REST API; opt into the new
+      // engine so this keeps working after the legacy search is sunset.
+      advanced_search: 'true',
       per_page: 100,
       page,
     });
