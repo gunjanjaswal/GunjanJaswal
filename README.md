@@ -186,6 +186,14 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
+      <br><b>Home Assistant</b><br><br>
+      <div align="left">
+        <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
+        <a href="https://github.com/home-assistant/core/pull/176345">#176345</a> Fix duplicate Hikvision binary sensor unique IDs<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
       <div align="left">
@@ -193,6 +201,8 @@
         <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -200,8 +210,6 @@
         <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
@@ -210,20 +218,13 @@
         <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
         <a href="https://github.com/PaperMC/Paper/pull/14011">#14011</a> Connection-throttle cleanup fix (per-IP anti-DoS)<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
-      <br><b>Home Assistant</b><br><br>
-      <div align="left">
-        <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
       </div>
     </td>
   </tr>
