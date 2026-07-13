@@ -190,6 +190,7 @@
       <br><b>ChromeDevTools</b><br><br>
       <div align="left">
         <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
+        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
