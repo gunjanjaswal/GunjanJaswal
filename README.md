@@ -186,12 +186,21 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/openai" title="openai"><img src="https://github.com/openai.png" width="42" alt="openai"></a>
+      <br><b>openai</b><br><br>
+      <div align="left">
+        <a href="https://github.com/openai/openai-agents-python/pull/3897">#3897</a> fix(chatcmpl): surface content-filter refusals when buffering streamed tool calls<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/elastic" title="elastic"><img src="https://github.com/elastic.png" width="42" alt="elastic"></a>
       <br><b>elastic</b><br><br>
       <div align="left">
         <a href="https://github.com/elastic/eui/pull/9783">#9783</a> Fix EuiSearchBar negated multi-value filter excluding only one value<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
       <br><b>Home Assistant</b><br><br>
@@ -200,8 +209,6 @@
         <a href="https://github.com/home-assistant/core/pull/176345">#176345</a> Fix duplicate Hikvision binary sensor unique IDs<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
@@ -210,6 +217,8 @@
         <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -217,8 +226,6 @@
         <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
@@ -227,6 +234,8 @@
         <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
