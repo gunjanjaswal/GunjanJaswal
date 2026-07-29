@@ -10,6 +10,8 @@
   <a href="mailto:hello@gunjanjaswal.me"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center"><em>Been writing code since before it was cool to blame the AI for it.<br>Builder &middot; Fixer &middot; Full Stack &middot; 16 years, still curious.</em></p>
+
 ## 🚀 About Me
 
 <div align="center">
