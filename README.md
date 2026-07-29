@@ -186,6 +186,15 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
+      <br><b>ChromeDevTools</b><br><br>
+      <div align="left">
+        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
+        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
+        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2428">#2428</a> fix: dispose heap snapshot workers on context teardown<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/openai" title="openai"><img src="https://github.com/openai.png" width="42" alt="openai"></a>
       <br><b>openai</b><br><br>
       <div align="left">
@@ -193,6 +202,8 @@
         <a href="https://github.com/openai/openai-agents-python/pull/3982">#3982</a> fix(run): cancel the parallel input-guardrail task when the model turn fails<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
@@ -202,8 +213,6 @@
         <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/elastic" title="elastic"><img src="https://github.com/elastic.png" width="42" alt="elastic"></a>
       <br><b>elastic</b><br><br>
@@ -211,22 +220,14 @@
         <a href="https://github.com/elastic/eui/pull/9783">#9783</a> Fix EuiSearchBar negated multi-value filter excluding only one value<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
       <br><b>Home Assistant</b><br><br>
       <div align="left">
         <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
         <a href="https://github.com/home-assistant/core/pull/176345">#176345</a> Fix duplicate Hikvision binary sensor unique IDs<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
-      <br><b>ChromeDevTools</b><br><br>
-      <div align="left">
-        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
-        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
