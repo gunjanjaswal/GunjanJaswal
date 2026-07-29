@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9333EA&height=200&section=header&text=Gunjan%20Jaswal&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Product%20Architect%20%C2%B7%20AI%20Innovation%20Catalyst%20%C2%B7%16%2B%20Years%20Shipping&descSize=16&descAlignY=58" alt="Gunjan Jaswal" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9333EA&height=200&section=header&text=Gunjan%20Jaswal&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Product%20Architect%20%C2%B7%20AI%20Innovation%20Catalyst%20%C2%B7%2016%2B%20Years%20Shipping&descSize=16&descAlignY=58" alt="Gunjan Jaswal" />
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Product+Architect;Innovation+AI+Catalyst;Transforming+Digital+Landscapes" alt="Typing SVG" /></a>
