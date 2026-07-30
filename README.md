@@ -176,7 +176,7 @@
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 <br><br>
-<img src="./assets/streak.svg" alt="Contribution streak" />
+<img src="./assets/streak-card.svg" alt="Contribution streak" />
 </div>
 
 <br>
