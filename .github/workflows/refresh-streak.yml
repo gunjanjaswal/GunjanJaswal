@@ -1,0 +1,38 @@
+name: Refresh Contribution Streak
+
+on:
+  schedule:
+    - cron: '30 0 * * *' # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch streak card as a static SVG
+        run: |
+          mkdir -p assets
+          curl -sSL --retry 6 --retry-delay 15 --retry-all-errors --max-time 90 \
+            "https://streak-stats.demolab.com/?user=gunjanjaswal&hide_border=true&theme=tokyonight" \
+            -o assets/streak.svg
+          grep -q "<svg" assets/streak.svg || { echo "Streak service did not return an SVG"; exit 1; }
+
+      - name: Commit if changed
+        run: |
+          git config user.name "gunjanjaswal"
+          git config user.email "gunjanjaswal@gmail.com"
+          git add assets/streak.svg
+          if git diff --staged --quiet; then
+            echo "No streak changes."
+          else
+            git commit -m "Refresh contribution streak card"
+            git push
+          fi
