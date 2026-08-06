@@ -561,7 +561,20 @@
       </a>
     </td>
     <td width="8%"></td>
-    <td width="46%"></td>
+    <td align="center" valign="top" width="46%">
+      <a href="https://wordpress.org/plugins/konsentra/">
+        <img src="https://img.shields.io/badge/🍪_Konsentra-Cookie_Consent-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Konsentra Cookie Consent Banner">
+      </a>
+      <br><br>
+      <b>🍪 GDPR Cookie Consent</b>
+      <p>Privacy-first cookie consent banner with script blocking and per-category controls for GDPR and ePrivacy</p>
+      <img src="https://img.shields.io/badge/🔒-Privacy_First-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/⚖️-GDPR-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/konsentra/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
   </tr>
 </table>
 
