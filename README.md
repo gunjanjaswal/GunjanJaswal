@@ -452,13 +452,13 @@
   <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
-        <img src="https://img.shields.io/badge/☁️_G33ki_Cloud-Storage_for_Media-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="G33ki Cloud Storage for Media Library">
+        <img src="https://img.shields.io/badge/☁️_OffloadForge-Cloud_Media_Offload-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="OffloadForge - Cloud Media Offload">
       </a>
       <br><br>
-      <b>☁️ Cloud Storage for Media Library</b>
-      <p>Seamlessly offload WordPress media to cloud storage for better performance and scalability</p>
+      <b>☁️ Cloud Media Offload</b>
+      <p>Offload your media library to Amazon S3, DigitalOcean Spaces, or Google Cloud and serve it over a CDN</p>
       <img src="https://img.shields.io/badge/☁️-Cloud_Storage-4285F4?style=flat-square">
-      <img src="https://img.shields.io/badge/⚡-Performance-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/🚀-CDN_Delivery-10b981?style=flat-square">
       <br><br>
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/" target="_blank">
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
