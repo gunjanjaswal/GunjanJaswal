@@ -188,6 +188,16 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
+      <br><b>career-ops</b><br><br>
+      <div align="left">
+        <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
+        <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
+        <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
+        <a href="https://github.com/santifer/career-ops/pull/2558">#2558</a> fix(seeds): walk every YC page instead of stopping after page 1<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
       <div align="left">
@@ -196,23 +206,14 @@
         <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2428">#2428</a> fix: dispose heap snapshot workers on context teardown<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/openai" title="openai"><img src="https://github.com/openai.png" width="42" alt="openai"></a>
       <br><b>openai</b><br><br>
       <div align="left">
         <a href="https://github.com/openai/openai-agents-python/pull/3897">#3897</a> fix(chatcmpl): surface content-filter refusals when buffering streamed tool calls<br>
         <a href="https://github.com/openai/openai-agents-python/pull/3982">#3982</a> fix(run): cancel the parallel input-guardrail task when the model turn fails<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
-      <br><b>career-ops</b><br><br>
-      <div align="left">
-        <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
-        <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
-        <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
