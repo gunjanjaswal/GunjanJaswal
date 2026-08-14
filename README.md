@@ -195,6 +195,7 @@
         <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
         <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
         <a href="https://github.com/santifer/career-ops/pull/2558">#2558</a> fix(seeds): walk every YC page instead of stopping after page 1<br>
+        <a href="https://github.com/santifer/career-ops/pull/2818">#2818</a> fix(providers): route seven RSS decoders through the shared safe entity decoder<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
