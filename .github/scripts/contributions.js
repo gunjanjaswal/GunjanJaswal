@@ -53,7 +53,7 @@ module.exports = async ({ github, core }) => {
     if (!byOrg.has(owner)) byOrg.set(owner, { owner, prs: [], latest: 0 });
     const when = Date.parse(it.closed_at || it.updated_at || 0) || 0;
     const g = byOrg.get(owner);
-    g.prs.push({ repo, number: it.number, title: it.title, url: it.html_url });
+    g.prs.push({ repo, number: it.number, title: it.title, url: it.html_url, when });
     if (when > g.latest) g.latest = when;
   }
 
@@ -71,7 +71,9 @@ module.exports = async ({ github, core }) => {
   const card = (o) => {
     const dn = displayName(o.owner);
     const lines = o.prs
-      .sort((a, b) => a.number - b.number)
+      // Newest first: sort by merge date, then PR number as a tiebreak so an
+      // org's multiple repos interleave by recency rather than by number.
+      .sort((a, b) => b.when - a.when || b.number - a.number)
       .map((p) => {
         const desc = OVERRIDES[`${o.owner}/${p.repo}#${p.number}`] || p.title;
         return '        <a href="' + p.url + '">#' + p.number + '</a> ' + esc(desc) + '<br>';
