@@ -199,12 +199,12 @@
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
-        <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
-        <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
-        <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
-        <a href="https://github.com/santifer/career-ops/pull/2558">#2558</a> fix(seeds): walk every YC page instead of stopping after page 1<br>
-        <a href="https://github.com/santifer/career-ops/pull/2818">#2818</a> fix(providers): route seven RSS decoders through the shared safe entity decoder<br>
         <a href="https://github.com/santifer/career-ops/pull/2820">#2820</a> Ignore CRLF/LF-only differences when detecting local system edits<br>
+        <a href="https://github.com/santifer/career-ops/pull/2818">#2818</a> fix(providers): route seven RSS decoders through the shared safe entity decoder<br>
+        <a href="https://github.com/santifer/career-ops/pull/2558">#2558</a> fix(seeds): walk every YC page instead of stopping after page 1<br>
+        <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
+        <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
+        <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
       </div>
     </td>
   </tr>
@@ -213,17 +213,17 @@
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
       <div align="left">
-        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
-        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
         <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2428">#2428</a> fix: dispose heap snapshot workers on context teardown<br>
+        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/9">#9</a> Throw on truncated VLQs in strict decode mode<br>
+        <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/openai" title="openai"><img src="https://github.com/openai.png" width="42" alt="openai"></a>
       <br><b>openai</b><br><br>
       <div align="left">
-        <a href="https://github.com/openai/openai-agents-python/pull/3897">#3897</a> fix(chatcmpl): surface content-filter refusals when buffering streamed tool calls<br>
         <a href="https://github.com/openai/openai-agents-python/pull/3982">#3982</a> fix(run): cancel the parallel input-guardrail task when the model turn fails<br>
+        <a href="https://github.com/openai/openai-agents-python/pull/3897">#3897</a> fix(chatcmpl): surface content-filter refusals when buffering streamed tool calls<br>
       </div>
     </td>
   </tr>
@@ -239,8 +239,8 @@
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
       <br><b>Home Assistant</b><br><br>
       <div align="left">
-        <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
         <a href="https://github.com/home-assistant/core/pull/176345">#176345</a> Fix duplicate Hikvision binary sensor unique IDs<br>
+        <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
       </div>
     </td>
   </tr>
