@@ -188,23 +188,24 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
-        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
+        <a href="https://github.com/santifer/career-ops/pull/2851">#2851</a> Don't let an unscoreable (N/A) re-eval overwrite a real score<br>
         <a href="https://github.com/santifer/career-ops/pull/2820">#2820</a> Ignore CRLF/LF-only differences when detecting local system edits<br>
         <a href="https://github.com/santifer/career-ops/pull/2818">#2818</a> fix(providers): route seven RSS decoders through the shared safe entity decoder<br>
         <a href="https://github.com/santifer/career-ops/pull/2558">#2558</a> fix(seeds): walk every YC page instead of stopping after page 1<br>
         <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
         <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
         <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
+        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
       </div>
     </td>
   </tr>
