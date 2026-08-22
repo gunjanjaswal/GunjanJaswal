@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://gunjanjaswal.me"><img src="https://img.shields.io/badge/Website-gunjanjaswal.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/gunjanjaswal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://profiles.wordpress.org/gunjanjaswal/"><img src="https://img.shields.io/badge/WordPress-Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org Profile"></a>
   <a href="mailto:hello@gunjanjaswal.me"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
