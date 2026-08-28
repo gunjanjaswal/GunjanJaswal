@@ -1,0 +1,38 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: '30 1 * * *' # daily, offset from the other profile workflows
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate the snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gunjanjaswal
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit if changed
+        run: |
+          git config user.name "gunjanjaswal"
+          git config user.email "gunjanjaswal@gmail.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if git diff --staged --quiet; then
+            echo "No snake changes."
+          else
+            git commit -m "Regenerate contribution snake"
+            git push
+          fi
