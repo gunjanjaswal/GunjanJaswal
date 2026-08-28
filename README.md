@@ -175,7 +175,11 @@
 ## <img src="https://cdn.simpleicons.org/github/8b949e" height="26" align="top" /> GitHub Stats
 
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gunjanjaswal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="95%" src="./assets/github-snake.svg" alt="Contribution snake animation" />
+</picture>
 <br><br>
 <img src="./assets/streak-card.svg" alt="Contribution streak" />
 </div>
