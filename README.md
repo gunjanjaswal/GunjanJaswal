@@ -624,6 +624,22 @@
         <img src="https://img.shields.io/badge/Visit_Site-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site">
       </a>
     </td>
+    <td align="center" width="350">
+      <a href="https://moodplayr.com/">
+        <img src="https://img.shields.io/badge/MoodPlayr-Movie_%26_TV-7C3AED?style=for-the-badge" alt="MoodPlayr">
+      </a>
+      <br><br>
+      <strong>🎬 MoodPlayr</strong>
+      <br>
+      <em>Mood-first movie and TV discovery and tracker: swipe your vibe for ranked picks, jump straight to the stream, and track every show episode by episode</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/🍿-Discovery-9333EA?style=flat-square">
+      <img src="https://img.shields.io/badge/📺-Episode_Tracker-3B82F6?style=flat-square">
+      <br><br>
+      <a href="https://moodplayr.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site">
+      </a>
+    </td>
   </tr>
 </table>
 </div>
