@@ -193,16 +193,10 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/BerriAI" title="BerriAI"><img src="https://github.com/BerriAI.png" width="42" alt="BerriAI"></a>
-      <br><b>BerriAI</b><br><br>
-      <div align="left">
-        <a href="https://github.com/BerriAI/litellm/pull/31994">#31994</a> fix: send anthropic-workspace-id header for Bedrock Mantle<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
+        <a href="https://github.com/santifer/career-ops/pull/2821">#2821</a> Add a global &quot;Back to Top&quot; button to the web app<br>
         <a href="https://github.com/santifer/career-ops/pull/2851">#2851</a> Don't let an unscoreable (N/A) re-eval overwrite a real score<br>
         <a href="https://github.com/santifer/career-ops/pull/2820">#2820</a> Ignore CRLF/LF-only differences when detecting local system edits<br>
         <a href="https://github.com/santifer/career-ops/pull/2818">#2818</a> fix(providers): route seven RSS decoders through the shared safe entity decoder<br>
@@ -210,6 +204,13 @@
         <a href="https://github.com/santifer/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
         <a href="https://github.com/santifer/career-ops/pull/1442">#1442</a> Get on Board zero-auth job provider<br>
         <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/BerriAI" title="BerriAI"><img src="https://github.com/BerriAI.png" width="42" alt="BerriAI"></a>
+      <br><b>BerriAI</b><br><br>
+      <div align="left">
+        <a href="https://github.com/BerriAI/litellm/pull/31994">#31994</a> fix: send anthropic-workspace-id header for Bedrock Mantle<br>
       </div>
     </td>
   </tr>
