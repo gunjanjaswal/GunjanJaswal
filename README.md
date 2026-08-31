@@ -193,6 +193,15 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/lexical/pull/8884">#8884</a> [lexical] Bug Fix: collapse to a paragraph on select-all delete of a non-paragraph first block<br>
+        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
+        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/santifer" title="career-ops"><img src="https://github.com/santifer.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
@@ -206,21 +215,13 @@
         <a href="https://github.com/santifer/career-ops/pull/1352">#1352</a> Follow-up cadence bug fix + test<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/BerriAI" title="BerriAI"><img src="https://github.com/BerriAI.png" width="42" alt="BerriAI"></a>
       <br><b>BerriAI</b><br><br>
       <div align="left">
         <a href="https://github.com/BerriAI/litellm/pull/31994">#31994</a> fix: send anthropic-workspace-id header for Bedrock Mantle<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
-        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
