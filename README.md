@@ -351,7 +351,7 @@
       <br><br>
       <b>🎥 QuickReel Screen Recorder</b>
       <p>100% Free screen recording with unlimited time. No watermarks, no restrictions. Private and simple.</p>
-      <img src="https://img.shields.io/badge/⏱️-Unlimited_Recording-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/⏱-Unlimited_Recording-10b981?style=flat-square">
       <img src="https://img.shields.io/badge/🔒-Privacy_First-764ba2?style=flat-square">
       <br><br>
       <a href="https://chrome.google.com/webstore/detail/hgibklcpjfflipmcojiibdofgogchocf" target="_blank">
@@ -404,6 +404,24 @@
 </div>
 
 <table width="100%">
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <a href="https://wordpress.org/plugins/ferryforge/">
+        <img src="https://img.shields.io/badge/🚢_FerryForge-Move_Blocks_Between_Sites-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FerryForge">
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/NEW-FF9800?style=for-the-badge" alt="New">
+      <br><br>
+      <b>🚢 Move Blocks Between Sites</b>
+      <p>Export a selection or the whole post to a file or the clipboard, import it anywhere, and save selections as synced patterns, all from the editor sidebar</p>
+      <img src="https://img.shields.io/badge/🧩-Block_Editor-21759B?style=flat-square">
+      <img src="https://img.shields.io/badge/↔-Cross_Site-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/ferryforge/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
   <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/queueforge-inp-fixer/">
