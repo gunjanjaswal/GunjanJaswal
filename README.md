@@ -193,18 +193,10 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/facebook/lexical/pull/8884">#8884</a> [lexical] Bug Fix: collapse to a paragraph on select-all delete of a non-paragraph first block<br>
-        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
-        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops-hq"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops-hq"></a>
       <br><b>career-ops-hq</b><br><br>
       <div align="left">
+        <a href="https://github.com/career-ops-hq/career-ops/pull/3605">#3605</a> test: tolerate a missing web/ subproject in the mjs-files syntax gate<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/2821">#2821</a> Add a global &quot;Back to Top&quot; button to the web app<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/2851">#2851</a> Don't let an unscoreable (N/A) re-eval overwrite a real score<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/2820">#2820</a> Ignore CRLF/LF-only differences when detecting local system edits<br>
@@ -213,6 +205,15 @@
         <a href="https://github.com/career-ops-hq/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/1442">#1442</a> feat(providers): add Get on Board (getonbrd) zero-auth provider<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/1352">#1352</a> fix(followup-cadence): schedule first responded follow-up with responded_initial<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/lexical/pull/8884">#8884</a> [lexical] Bug Fix: collapse to a paragraph on select-all delete of a non-paragraph first block<br>
+        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
+        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
       </div>
     </td>
   </tr>
