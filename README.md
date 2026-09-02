@@ -619,6 +619,52 @@
 
 <br>
 
+## <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="28" align="top" /> GitHub Marketplace
+
+<div align="center">
+
+### ⚙️ Published GitHub Actions
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="46%">
+      <a href="https://github.com/marketplace/actions/wp-plugin-version-guard">
+        <img src="https://img.shields.io/badge/🛡️_WP_Plugin_Version_Guard-CI_Version_Check-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="WP Plugin Version Guard">
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/NEW-FF9800?style=for-the-badge" alt="New">
+      <br><br>
+      <b>🛡️ Version Consistency for CI</b>
+      <p>Fails your build when a WordPress plugin's version drifts across the header, readme.txt Stable tag, a version constant, and the changelog</p>
+      <img src="https://img.shields.io/badge/⚙️-GitHub_Action-2088FF?style=flat-square">
+      <img src="https://img.shields.io/badge/✅-CI_Gate-10b981?style=flat-square">
+      <br><br>
+      <a href="https://github.com/marketplace/actions/wp-plugin-version-guard" target="_blank">
+        <img src="https://img.shields.io/badge/View_on_Marketplace-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="View on Marketplace">
+      </a>
+    </td>
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%">
+      <a href="https://github.com/marketplace/actions/wp-plugin-ci">
+        <img src="https://img.shields.io/badge/✅_WP_Plugin_CI-Lint_+_Readme-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="WP Plugin CI">
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/NEW-FF9800?style=for-the-badge" alt="New">
+      <br><br>
+      <b>✅ One-Step Quality Gate</b>
+      <p>PHP lint, readme.txt validation, and optional WordPress Plugin Check in a single workflow step</p>
+      <img src="https://img.shields.io/badge/🧪-Quality_Gate-10b981?style=flat-square">
+      <img src="https://img.shields.io/badge/📄-Readme_Check-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://github.com/marketplace/actions/wp-plugin-ci" target="_blank">
+        <img src="https://img.shields.io/badge/View_on_Marketplace-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="View on Marketplace">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## 🌐 Websites
 
 <div align="center">
