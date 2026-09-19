@@ -275,6 +275,11 @@
 
 <br>
 
+<!--START_SECTION:open-prs-->
+<!--END_SECTION:open-prs-->
+
+<br>
+
 ## 📂 Recent Projects
 
 <div align="center">
