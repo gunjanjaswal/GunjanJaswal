@@ -285,8 +285,8 @@
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
-        <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/4115">#4115</a> fix(generate-pdf): keep both a report's CV and cover letter in the PDF manifest (#3967)<br>
+        <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
