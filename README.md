@@ -294,26 +294,26 @@
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
-        <a href="https://github.com/WordPress/plugin-check/pull/1380">#1380</a> Add React usage check to detect React 19 incompatibilities<br>
         <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
+        <a href="https://github.com/WordPress/plugin-check/pull/1380">#1380</a> Add React usage check to detect React 19 incompatibilities<br>
         <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
         <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
-      <br><b>career-ops</b><br><br>
+      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
+      <br><b>ChromeDevTools</b><br><br>
       <div align="left">
-        <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
+        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
       </div>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
-      <br><b>ChromeDevTools</b><br><br>
+      <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
+      <br><b>career-ops</b><br><br>
       <div align="left">
-        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
+        <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
