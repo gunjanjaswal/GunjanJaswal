@@ -301,19 +301,36 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
-      <br><b>ChromeDevTools</b><br><br>
+      <a href="https://github.com/varunranaunmsn" title="varunranaunmsn"><img src="https://github.com/varunranaunmsn.png" width="42" alt="varunranaunmsn"></a>
+      <br><b>varunranaunmsn</b><br><br>
       <div align="left">
-        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
+        <a href="https://github.com/varunranaunmsn/praxispulse-landing/pull/1">#1</a> Accurate legal pages, new DPA page, full SEO/AEO, and hosting on the droplet<br>
       </div>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
+        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
         <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
+      <br><b>ChromeDevTools</b><br><br>
+      <div align="left">
+        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
@@ -361,14 +378,6 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
-        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
       <div align="left">
@@ -376,8 +385,6 @@
         <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/future-agi" title="future-agi"><img src="https://github.com/future-agi.png" width="42" alt="future-agi"></a>
       <br><b>future-agi</b><br><br>
@@ -385,6 +392,8 @@
         <a href="https://github.com/future-agi/future-agi/pull/1860">#1860</a> fix: preserve input order and failed-task slots in execute_with_concurrent_future_pool<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
