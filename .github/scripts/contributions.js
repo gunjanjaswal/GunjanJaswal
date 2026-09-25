@@ -12,6 +12,7 @@ module.exports = async ({ github, core }) => {
     'gunjanjaswal',
     'The-Youth-Talks',
     'Abhinav-Immigration-Services-Pvt-Ltd',
+    'varunranaunmsn',
   ]);
   // Optional nicer descriptions; falls back to the PR title.
   const OVERRIDES = {
