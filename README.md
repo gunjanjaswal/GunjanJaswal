@@ -196,6 +196,7 @@
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
+        <a href="https://github.com/WordPress/plugin-check/pull/1380">#1380</a> Add React usage check to detect React 19 incompatibilities<br>
         <a href="https://github.com/WordPress/gutenberg/pull/79650">#79650</a> Dependency Extraction Webpack Plugin: pretty-print generated asset output<br>
       </div>
     </td>
@@ -291,24 +292,12 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
-      <br><b>WordPress</b><br><br>
-      <div align="left">
-        <a href="https://github.com/WordPress/plugin-check/pull/1380">#1380</a> Add React usage check to detect React 19 incompatibilities<br>
-        <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
-        <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
-        <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/varunranaunmsn" title="varunranaunmsn"><img src="https://github.com/varunranaunmsn.png" width="42" alt="varunranaunmsn"></a>
       <br><b>varunranaunmsn</b><br><br>
       <div align="left">
         <a href="https://github.com/varunranaunmsn/praxispulse-landing/pull/1">#1</a> Accurate legal pages, new DPA page, full SEO/AEO, and hosting on the droplet<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -317,11 +306,22 @@
         <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
         <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
+      <br><b>WordPress</b><br><br>
+      <div align="left">
+        <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
+        <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
+        <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
       </div>
     </td>
   </tr>
