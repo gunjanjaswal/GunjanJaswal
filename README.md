@@ -292,6 +292,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
+      <br><b>Automattic</b><br><br>
+      <div align="left">
+        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
@@ -301,6 +308,8 @@
         <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -309,8 +318,6 @@
         <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
@@ -318,6 +325,8 @@
         <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
@@ -325,21 +334,12 @@
         <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
       <br><b>anthropics</b><br><br>
       <div align="left">
         <a href="https://github.com/anthropics/claude-code-action/pull/1534">#1534</a> fix: restore credential-free origin URL after token revocation<br>
         <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
-      <br><b>Automattic</b><br><br>
-      <div align="left">
-        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
       </div>
     </td>
   </tr>
