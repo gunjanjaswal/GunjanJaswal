@@ -298,6 +298,7 @@
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
+        <a href="https://github.com/PaperMC/Paper/pull/14060">#14060</a> Fix incorrect InventoryClickEvent slots when clicking your own inventory during invsee<br>
         <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
       </div>
     </td>
