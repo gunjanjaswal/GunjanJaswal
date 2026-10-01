@@ -293,6 +293,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
+      <br><b>ChromeDevTools</b><br><br>
+      <div align="left">
+        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
@@ -300,13 +307,6 @@
         <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
         <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
         <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
-      <br><b>ChromeDevTools</b><br><br>
-      <div align="left">
-        <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2800">#2800</a> refactor: extract worker logic into McpWorker<br>
       </div>
     </td>
   </tr>
