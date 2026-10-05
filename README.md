@@ -295,6 +295,16 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
+      <br><b>WordPress</b><br><br>
+      <div align="left">
+        <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
+        <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
+        <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
+        <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
@@ -302,6 +312,8 @@
         <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
       <br><b>anthropics</b><br><br>
@@ -309,8 +321,6 @@
         <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -319,6 +329,8 @@
         <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/future-agi" title="future-agi"><img src="https://github.com/future-agi.png" width="42" alt="future-agi"></a>
       <br><b>future-agi</b><br><br>
@@ -326,8 +338,6 @@
         <a href="https://github.com/future-agi/future-agi/pull/1860">#1860</a> fix: preserve input order and failed-task slots in execute_with_concurrent_future_pool<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
@@ -336,23 +346,13 @@
         <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
       <div align="left">
         <a href="https://github.com/google/clasp/pull/1159">#1159</a> fix(push): error on non-existent filePushOrder entries instead of failing silently<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
-      <br><b>WordPress</b><br><br>
-      <div align="left">
-        <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
-        <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
-        <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
-        <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
