@@ -517,6 +517,24 @@
 
 <table width="100%">
   <tr>
+    <td colspan="3" align="center" valign="top">
+      <a href="https://wordpress.org/plugins/loadgate-forge/">
+        <img src="https://img.shields.io/badge/🚦_LoadGate_Forge-Conditional_Plugin_Loading-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="LoadGate Forge">
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/NEW-FF9800?style=for-the-badge" alt="New">
+      <br><br>
+      <b>🚦 Stop plugins loading where they're not needed</b>
+      <p>Disable specific plugins on specific URL paths so their code never runs there. Fully reversible, nothing deleted, faster pages.</p>
+      <img src="https://img.shields.io/badge/⚡-Performance-4CAF50?style=flat-square">
+      <img src="https://img.shields.io/badge/🔧-Must--Use_Loader-181717?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/loadgate-forge/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/repobridgeforge/">
         <img src="https://img.shields.io/badge/🌉_Repo_Bridge_Forge-GitHub_to_WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Repo Bridge Forge">
