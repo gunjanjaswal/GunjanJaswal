@@ -533,10 +533,6 @@
       </a>
     </td>
     <td width="8%"></td>
-    <td align="center" valign="top" width="46%"></td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/autoloadforge/">
         <img src="https://img.shields.io/badge/⚡_AutoloadForge-Autoload_Optimizer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="AutoloadForge">
@@ -552,7 +548,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/ferryforge/">
         <img src="https://img.shields.io/badge/🚢_FerryForge-Move_Blocks_Between_Sites-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FerryForge">
@@ -567,9 +565,7 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
+    <td width="8%"></td>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/konsentra/">
         <img src="https://img.shields.io/badge/🍪_Konsentra-Cookie_Consent-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Konsentra Cookie Consent Banner">
@@ -584,7 +580,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/queueforge-inp-fixer/">
         <img src="https://img.shields.io/badge/🚀_QueueForge-INP_Fixer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="QueueForge INP Fixer">
@@ -599,9 +597,7 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
+    <td width="8%"></td>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/quillrush-newsletter-studio-for-sendy/">
         <img src="https://img.shields.io/badge/📧_Quillrush_Newsletter-Studio_for_Sendy-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Quillrush Newsletter Studio for Sendy">
@@ -616,7 +612,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/staticforge-for-cloudflare-pages/">
         <img src="https://img.shields.io/badge/⚡_StaticForge-Cloudflare_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="StaticForge for Cloudflare Pages">
@@ -631,9 +629,7 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
+    <td width="8%"></td>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/xml-nest-creator/">
         <img src="https://img.shields.io/badge/🪺_XML_Nest-Creator-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="XML Nest Creator">
@@ -648,7 +644,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/g33ki-cloud-storage-for-media-library/">
         <img src="https://img.shields.io/badge/☁️_OffloadForge-Cloud_Media_Offload-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="OffloadForge - Cloud Media Offload">
@@ -663,9 +661,7 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
+    <td width="8%"></td>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/featured-image-creator-ai/">
         <img src="https://img.shields.io/badge/🎨_Featured_Image-Creator_AI-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Featured Image Creator AI">
@@ -680,7 +676,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/endpointy-menus/">
         <img src="https://img.shields.io/badge/🔌_Endpointy-Menus-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Endpointy Menus">
@@ -695,9 +693,7 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
+    <td width="8%"></td>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/fetchpriority-featured-image/">
         <img src="https://img.shields.io/badge/⚡_FetchPriority-Featured_Image-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="FetchPriority Featured Image">
@@ -712,7 +708,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/lightweight-newscast-xml-sitemap-for-google-news/">
         <img src="https://img.shields.io/badge/📰_Lightweight_Newscast-XML_Sitemap-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Lightweight Newscast XML Sitemap">
@@ -727,9 +725,7 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
+    <td width="8%"></td>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/emojis-for-posts-and-pages/">
         <img src="https://img.shields.io/badge/😊_Emojis_for-Posts_&_Pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Emojis for Posts and Pages">
@@ -744,7 +740,9 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
-    <td width="8%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
     <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/document-download-manager/">
         <img src="https://img.shields.io/badge/📥_Document_Download-Manager-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Document Download Manager">
@@ -759,6 +757,8 @@
         <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
       </a>
     </td>
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%"></td>
   </tr>
 </table>
 
