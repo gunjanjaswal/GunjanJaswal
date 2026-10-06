@@ -518,6 +518,26 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="46%">
+      <a href="https://wordpress.org/plugins/repobridgeforge/">
+        <img src="https://img.shields.io/badge/🌉_Repo_Bridge_Forge-GitHub_to_WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Repo Bridge Forge">
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/NEW-FF9800?style=for-the-badge" alt="New">
+      <br><br>
+      <b>🌉 GitHub to WordPress Content Sync</b>
+      <p>Publish WordPress posts from a GitHub repository. Markdown files with front matter become posts, kept in sync from the branch you choose</p>
+      <img src="https://img.shields.io/badge/🔗-GitHub_API-181717?style=flat-square">
+      <img src="https://img.shields.io/badge/📝-Markdown-4285F4?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/repobridgeforge/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/autoloadforge/">
         <img src="https://img.shields.io/badge/⚡_AutoloadForge-Autoload_Optimizer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="AutoloadForge">
       </a>
