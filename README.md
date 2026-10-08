@@ -295,6 +295,22 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
+      <br><b>roy-tong</b><br><br>
+      <div align="left">
+        <a href="https://github.com/roy-tong/AgentMeasure/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
+      <br><b>Automattic</b><br><br>
+      <div align="left">
+        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
@@ -356,21 +372,14 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
-      <br><b>Automattic</b><br><br>
-      <div align="left">
-        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/microsoft" title="Microsoft"><img src="https://github.com/microsoft.png" width="42" alt="Microsoft"></a>
       <br><b>Microsoft</b><br><br>
       <div align="left">
         <a href="https://github.com/microsoft/autogen/pull/7909">#7909</a> Fix TypeError aggregating streamed tool-call deltas with None fields (Azure client)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
       <br><b>permissionlesstech</b><br><br>
