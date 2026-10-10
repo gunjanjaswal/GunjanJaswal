@@ -525,6 +525,26 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="46%">
+      <a href="https://wordpress.org/plugins/pixel-forge/">
+        <img src="https://img.shields.io/badge/🖼️_Pixel_Forge-Bulk_WebP_&_AVIF-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Pixel Forge">
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/NEW-FF9800?style=for-the-badge" alt="New">
+      <br><br>
+      <b>🖼️ Bulk WebP & AVIF conversion, done locally</b>
+      <p>Convert your media library to WebP and AVIF with a live progress screen and per-image control, all on your own server. Fully reversible with one-click rollback.</p>
+      <img src="https://img.shields.io/badge/⚡-Performance-4CAF50?style=flat-square">
+      <img src="https://img.shields.io/badge/🏠-Fully_Local-181717?style=flat-square">
+      <br><br>
+      <a href="https://wordpress.org/plugins/pixel-forge/" target="_blank">
+        <img src="https://img.shields.io/badge/Use_Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Use Plugin">
+      </a>
+    </td>
+    <td width="8%"></td>
+    <td align="center" valign="top" width="46%"></td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td align="center" valign="top" width="46%">
       <a href="https://wordpress.org/plugins/loadgate-forge/">
         <img src="https://img.shields.io/badge/🚦_LoadGate_Forge-Conditional_Plugin_Loading-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="LoadGate Forge">
       </a>
