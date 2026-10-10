@@ -193,6 +193,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
+      <br><b>roy-tong</b><br><br>
+      <div align="left">
+        <a href="https://github.com/roy-tong/AgentMeasure/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
@@ -208,6 +215,8 @@
         <a href="https://github.com/career-ops-hq/career-ops/pull/1352">#1352</a> fix(followup-cadence): schedule first responded follow-up with responded_initial<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
@@ -218,8 +227,6 @@
         <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
@@ -229,6 +236,8 @@
         <a href="https://github.com/WordPress/gutenberg/pull/79650">#79650</a> Dependency Extraction Webpack Plugin: pretty-print generated asset output<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -238,8 +247,6 @@
         <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/BerriAI" title="BerriAI"><img src="https://github.com/BerriAI.png" width="42" alt="BerriAI"></a>
       <br><b>BerriAI</b><br><br>
@@ -247,6 +254,8 @@
         <a href="https://github.com/BerriAI/litellm/pull/31994">#31994</a> fix: send anthropic-workspace-id header for Bedrock Mantle<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/openai" title="openai"><img src="https://github.com/openai.png" width="42" alt="openai"></a>
       <br><b>openai</b><br><br>
@@ -255,8 +264,6 @@
         <a href="https://github.com/openai/openai-agents-python/pull/3897">#3897</a> fix(chatcmpl): surface content-filter refusals when buffering streamed tool calls<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/elastic" title="elastic"><img src="https://github.com/elastic.png" width="42" alt="elastic"></a>
       <br><b>elastic</b><br><br>
@@ -264,6 +271,8 @@
         <a href="https://github.com/elastic/eui/pull/9783">#9783</a> Fix EuiSearchBar negated multi-value filter excluding only one value<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
       <br><b>Home Assistant</b><br><br>
@@ -272,8 +281,6 @@
         <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
@@ -302,15 +309,6 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
-      <br><b>roy-tong</b><br><br>
-      <div align="left">
-        <a href="https://github.com/roy-tong/AgentMeasure/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
@@ -320,6 +318,8 @@
         <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
@@ -328,8 +328,6 @@
         <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
       <br><b>anthropics</b><br><br>
@@ -337,6 +335,8 @@
         <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -345,8 +345,6 @@
         <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/future-agi" title="future-agi"><img src="https://github.com/future-agi.png" width="42" alt="future-agi"></a>
       <br><b>future-agi</b><br><br>
@@ -354,6 +352,8 @@
         <a href="https://github.com/future-agi/future-agi/pull/1860">#1860</a> fix: preserve input order and failed-task slots in execute_with_concurrent_future_pool<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
@@ -362,8 +362,6 @@
         <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
@@ -371,6 +369,8 @@
         <a href="https://github.com/google/clasp/pull/1159">#1159</a> fix(push): error on non-existent filePushOrder entries instead of failing silently<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/microsoft" title="Microsoft"><img src="https://github.com/microsoft.png" width="42" alt="Microsoft"></a>
       <br><b>Microsoft</b><br><br>
@@ -378,8 +378,6 @@
         <a href="https://github.com/microsoft/autogen/pull/7909">#7909</a> Fix TypeError aggregating streamed tool-call deltas with None fields (Azure client)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
       <br><b>permissionlesstech</b><br><br>
