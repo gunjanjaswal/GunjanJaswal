@@ -302,6 +302,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
+      <br><b>roy-tong</b><br><br>
+      <div align="left">
+        <a href="https://github.com/roy-tong/AgentMeasure/pull/38">#38</a> Anchor chenhz01-001 to the spec version (drift guard)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
@@ -309,6 +316,8 @@
         <a href="https://github.com/PaperMC/Paper/pull/14060">#14060</a> Fix incorrect InventoryClickEvent slots when clicking your own inventory during invsee<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
@@ -317,8 +326,6 @@
         <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
       <br><b>anthropics</b><br><br>
@@ -326,6 +333,8 @@
         <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/microsoft" title="Microsoft"><img src="https://github.com/microsoft.png" width="42" alt="Microsoft"></a>
       <br><b>Microsoft</b><br><br>
@@ -333,8 +342,6 @@
         <a href="https://github.com/microsoft/autogen/pull/7909">#7909</a> Fix TypeError aggregating streamed tool-call deltas with None fields (Azure client)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
       <br><b>Automattic</b><br><br>
@@ -342,6 +349,8 @@
         <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
@@ -352,8 +361,6 @@
         <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
       <br><b>Meta</b><br><br>
@@ -362,6 +369,8 @@
         <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/future-agi" title="future-agi"><img src="https://github.com/future-agi.png" width="42" alt="future-agi"></a>
       <br><b>future-agi</b><br><br>
@@ -369,8 +378,6 @@
         <a href="https://github.com/future-agi/future-agi/pull/1860">#1860</a> fix: preserve input order and failed-task slots in execute_with_concurrent_future_pool<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
@@ -378,6 +385,8 @@
         <a href="https://github.com/google/clasp/pull/1159">#1159</a> fix(push): error on non-existent filePushOrder entries instead of failing silently<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
       <br><b>permissionlesstech</b><br><br>
