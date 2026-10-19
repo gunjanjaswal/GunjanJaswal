@@ -303,6 +303,24 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
+        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
+        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
+      <br><b>Automattic</b><br><br>
+      <div align="left">
+        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
@@ -337,13 +355,6 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
-      <br><b>Automattic</b><br><br>
-      <div align="left">
-        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
@@ -351,16 +362,6 @@
         <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
         <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
         <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
-        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
