@@ -193,17 +193,10 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
-      <br><b>roy-tong</b><br><br>
-      <div align="left">
-        <a href="https://github.com/roy-tong/AgentMeasure/pull/38">#38</a> Anchor chenhz01-001 to the spec version (drift guard)<br>
-        <a href="https://github.com/roy-tong/AgentMeasure/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
+        <a href="https://github.com/career-ops-hq/career-ops/pull/5572">#5572</a> web inbox Skip: find the Pending heading in every mode language (#5569)<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/3605">#3605</a> test: tolerate a missing web/ subproject in the mjs-files syntax gate<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/2821">#2821</a> Add a global &quot;Back to Top&quot; button to the web app<br>
@@ -214,6 +207,14 @@
         <a href="https://github.com/career-ops-hq/career-ops/pull/2206">#2206</a> fix(tracker): set SQLite busy_timeout to avoid SQLITE_BUSY under concurrent access<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/1442">#1442</a> feat(providers): add Get on Board (getonbrd) zero-auth provider<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/1352">#1352</a> fix(followup-cadence): schedule first responded follow-up with responded_initial<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
+      <br><b>roy-tong</b><br><br>
+      <div align="left">
+        <a href="https://github.com/roy-tong/AgentMeasure/pull/38">#38</a> Anchor chenhz01-001 to the spec version (drift guard)<br>
+        <a href="https://github.com/roy-tong/AgentMeasure/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
       </div>
     </td>
   </tr>
@@ -306,7 +307,7 @@
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
-        <a href="https://github.com/career-ops-hq/career-ops/pull/5572">#5572</a> web inbox Skip: find the Pending heading in every mode language (#5569)<br>
+        <a href="https://github.com/career-ops-hq/career-ops/pull/5612">#5612</a> scan-ats-full: cancel a timed-out board, don't just stop waiting on it (#5570)<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
