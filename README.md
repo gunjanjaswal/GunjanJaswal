@@ -305,12 +305,23 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
+      <br><b>Meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
+        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
+        <a href="https://github.com/facebook/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/microsoft" title="Microsoft"><img src="https://github.com/microsoft.png" width="42" alt="Microsoft"></a>
       <br><b>Microsoft</b><br><br>
       <div align="left">
         <a href="https://github.com/microsoft/autogen/pull/7909">#7909</a> Fix TypeError aggregating streamed tool-call deltas with None fields (Azure client)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
       <br><b>permissionlesstech</b><br><br>
@@ -319,23 +330,12 @@
         <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
       <div align="left">
         <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
         <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
-        <a href="https://github.com/facebook/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
-        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
       </div>
     </td>
   </tr>
