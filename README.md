@@ -242,12 +242,12 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
+      <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
+      <br><b>meta</b><br><br>
       <div align="left">
-        <a href="https://github.com/facebook/lexical/pull/8884">#8884</a> [lexical] Bug Fix: collapse to a paragraph on select-all delete of a non-paragraph first block<br>
-        <a href="https://github.com/facebook/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
-        <a href="https://github.com/facebook/docusaurus/pull/12215">#12215</a> createExcerpt multi-line JSX leak fix<br>
+        <a href="https://github.com/meta/lexical/pull/8884">#8884</a> [lexical] Bug Fix: collapse to a paragraph on select-all delete of a non-paragraph first block<br>
+        <a href="https://github.com/meta/stylex/pull/1756">#1756</a> fix(eslint-plugin): respect enableMediaQueryOrder in sort-keys<br>
+        <a href="https://github.com/meta/docusaurus/pull/12215">#12215</a> fix(utils): stop createExcerpt leaking a multi-line JSX element into the description<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
@@ -325,12 +325,12 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/facebook" title="Meta"><img src="https://github.com/facebook.png" width="42" alt="Meta"></a>
-      <br><b>Meta</b><br><br>
+      <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
+      <br><b>meta</b><br><br>
       <div align="left">
-        <a href="https://github.com/facebook/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
-        <a href="https://github.com/facebook/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
-        <a href="https://github.com/facebook/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
+        <a href="https://github.com/meta/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
+        <a href="https://github.com/meta/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
+        <a href="https://github.com/meta/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
