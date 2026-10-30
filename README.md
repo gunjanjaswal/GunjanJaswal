@@ -214,8 +214,8 @@
       <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
       <br><b>roy-tong</b><br><br>
       <div align="left">
-        <a href="https://github.com/roy-tong/AgentMeasure/pull/38">#38</a> Anchor chenhz01-001 to the spec version (drift guard)<br>
-        <a href="https://github.com/roy-tong/AgentMeasure/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
+        <a href="https://github.com/roy-tong/verovo/pull/38">#38</a> Anchor chenhz01-001 to the spec version (drift guard)<br>
+        <a href="https://github.com/roy-tong/verovo/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
       </div>
     </td>
   </tr>
