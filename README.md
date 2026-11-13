@@ -196,6 +196,7 @@
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
+        <a href="https://github.com/career-ops-hq/career-ops/pull/7016">#7016</a> fix(verify-cv-facts): soft-wrapped cv.md lines count as one statement<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/5612">#5612</a> scan-ats-full: cancel a timed-out board, don't just stop waiting on it (#5570)<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/5572">#5572</a> web inbox Skip: find the Pending heading in every mode language (#5569)<br>
         <a href="https://github.com/career-ops-hq/career-ops/pull/3191">#3191</a> fix(generate-pdf): derive workspace root before canonicalizing the tracker (#3169)<br>
