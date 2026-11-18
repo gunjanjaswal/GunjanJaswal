@@ -306,15 +306,6 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
-      <br><b>meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/meta/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
-        <a href="https://github.com/meta/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
-        <a href="https://github.com/meta/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
       <div align="left">
@@ -322,6 +313,52 @@
         <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
         <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
         <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
+      <br><b>permissionlesstech</b><br><br>
+      <div align="left">
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
+      <br><b>wp-media</b><br><br>
+      <div align="left">
+        <a href="https://github.com/wp-media/wp-rocket/pull/9226">#9226</a> Fixes #9223: lazyload background CSS 404 for folders with spaces or non-ASCII names<br>
+        <a href="https://github.com/wp-media/wp-rocket/pull/9225">#9225</a> Fixes #9191: store subsetted (text=) Google Fonts in separate local files<br>
+        <a href="https://github.com/wp-media/wp-rocket/pull/9224">#9224</a> Fixes #9123: purge cache for non-Latin URLs with uppercase percent-encoding<br>
+        <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
+        <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
+      <br><b>meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/meta/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
+        <a href="https://github.com/meta/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
+        <a href="https://github.com/meta/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
+      <br><b>anthropics</b><br><br>
+      <div align="left">
+        <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
+      <br><b>Automattic</b><br><br>
+      <div align="left">
+        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
       </div>
     </td>
   </tr>
@@ -339,40 +376,6 @@
       <br><b>Microsoft</b><br><br>
       <div align="left">
         <a href="https://github.com/microsoft/autogen/pull/7909">#7909</a> Fix TypeError aggregating streamed tool-call deltas with None fields (Azure client)<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
-      <br><b>permissionlesstech</b><br><br>
-      <div align="left">
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
-      <br><b>wp-media</b><br><br>
-      <div align="left">
-        <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
-        <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
-      <br><b>Automattic</b><br><br>
-      <div align="left">
-        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
-      <br><b>anthropics</b><br><br>
-      <div align="left">
-        <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
       </div>
     </td>
   </tr>
