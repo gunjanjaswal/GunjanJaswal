@@ -306,6 +306,14 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
+      <br><b>permissionlesstech</b><br><br>
+      <div align="left">
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
       <div align="left">
@@ -316,6 +324,8 @@
         <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
@@ -324,16 +334,6 @@
         <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
         <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
         <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
-      <br><b>permissionlesstech</b><br><br>
-      <div align="left">
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
