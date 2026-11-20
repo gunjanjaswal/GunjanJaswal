@@ -372,15 +372,6 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/microsoft" title="Microsoft"><img src="https://github.com/microsoft.png" width="42" alt="Microsoft"></a>
-      <br><b>Microsoft</b><br><br>
-      <div align="left">
-        <a href="https://github.com/microsoft/autogen/pull/7909">#7909</a> Fix TypeError aggregating streamed tool-call deltas with None fields (Azure client)<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
       <div align="left">
