@@ -306,14 +306,6 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
-      <br><b>permissionlesstech</b><br><br>
-      <div align="left">
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
       <br><b>wp-media</b><br><br>
       <div align="left">
@@ -322,6 +314,14 @@
         <a href="https://github.com/wp-media/wp-rocket/pull/9225">#9225</a> Fixes #9191: store subsetted (text=) Google Fonts in separate local files<br>
         <a href="https://github.com/wp-media/wp-rocket/pull/9224">#9224</a> Fixes #9123: purge cache for non-Latin URLs with uppercase percent-encoding<br>
         <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
+      <br><b>permissionlesstech</b><br><br>
+      <div align="left">
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
       </div>
     </td>
   </tr>
