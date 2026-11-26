@@ -193,6 +193,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
+      <br><b>Automattic</b><br><br>
+      <div align="left">
+        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/career-ops-hq" title="career-ops"><img src="https://github.com/career-ops-hq.png" width="42" alt="career-ops"></a>
       <br><b>career-ops</b><br><br>
       <div align="left">
@@ -211,6 +218,8 @@
         <a href="https://github.com/career-ops-hq/career-ops/pull/1352">#1352</a> fix(followup-cadence): schedule first responded follow-up with responded_initial<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/roy-tong" title="roy-tong"><img src="https://github.com/roy-tong.png" width="42" alt="roy-tong"></a>
       <br><b>roy-tong</b><br><br>
@@ -219,8 +228,6 @@
         <a href="https://github.com/roy-tong/Verovo/pull/32">#32</a> Add availability certification vector (chenhz01-001) for #11<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/ChromeDevTools" title="ChromeDevTools"><img src="https://github.com/ChromeDevTools.png" width="42" alt="ChromeDevTools"></a>
       <br><b>ChromeDevTools</b><br><br>
@@ -231,6 +238,8 @@
         <a href="https://github.com/ChromeDevTools/source-map-scopes-codec/pull/7">#7</a> Reset keyToScope and lastScope in ScopeInfoBuilder.build() so a reused builder does not leak state<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
       <br><b>WordPress</b><br><br>
@@ -240,8 +249,6 @@
         <a href="https://github.com/WordPress/gutenberg/pull/79650">#79650</a> Dependency Extraction Webpack Plugin: pretty-print generated asset output<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
       <br><b>meta</b><br><br>
@@ -251,6 +258,8 @@
         <a href="https://github.com/meta/docusaurus/pull/12215">#12215</a> fix(utils): stop createExcerpt leaking a multi-line JSX element into the description<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/BerriAI" title="BerriAI"><img src="https://github.com/BerriAI.png" width="42" alt="BerriAI"></a>
       <br><b>BerriAI</b><br><br>
@@ -258,8 +267,6 @@
         <a href="https://github.com/BerriAI/litellm/pull/31994">#31994</a> fix: send anthropic-workspace-id header for Bedrock Mantle<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/openai" title="openai"><img src="https://github.com/openai.png" width="42" alt="openai"></a>
       <br><b>openai</b><br><br>
@@ -268,6 +275,8 @@
         <a href="https://github.com/openai/openai-agents-python/pull/3897">#3897</a> fix(chatcmpl): surface content-filter refusals when buffering streamed tool calls<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/elastic" title="elastic"><img src="https://github.com/elastic.png" width="42" alt="elastic"></a>
       <br><b>elastic</b><br><br>
@@ -275,8 +284,6 @@
         <a href="https://github.com/elastic/eui/pull/9783">#9783</a> Fix EuiSearchBar negated multi-value filter excluding only one value<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/home-assistant" title="Home Assistant"><img src="https://github.com/home-assistant.png" width="42" alt="Home Assistant"></a>
       <br><b>Home Assistant</b><br><br>
@@ -285,6 +292,8 @@
         <a href="https://github.com/home-assistant/core/pull/175180">#175180</a> HomeKit thermostat fan-mode casing bug + regression test<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
@@ -355,15 +364,6 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Automattic" title="Automattic"><img src="https://github.com/Automattic.png" width="42" alt="Automattic"></a>
-      <br><b>Automattic</b><br><br>
-      <div align="left">
-        <a href="https://github.com/Automattic/simplenote-electron/pull/3408">#3408</a> Only apply markdown decorations when the note has markdown enabled<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
@@ -371,6 +371,8 @@
         <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
