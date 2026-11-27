@@ -326,6 +326,44 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
+      <br><b>WordPress</b><br><br>
+      <div align="left">
+        <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
+        <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
+        <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
+        <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
+      <br><b>Google</b><br><br>
+      <div align="left">
+        <a href="https://github.com/google/clasp/pull/1159">#1159</a> fix(push): error on non-existent filePushOrder entries instead of failing silently<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
+      <br><b>meta</b><br><br>
+      <div align="left">
+        <a href="https://github.com/meta/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
+        <a href="https://github.com/meta/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
+        <a href="https://github.com/meta/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
+      <br><b>PaperMC</b><br><br>
+      <div align="left">
+        <a href="https://github.com/PaperMC/Paper/pull/14060">#14060</a> Fix incorrect InventoryClickEvent slots when clicking your own inventory during invsee<br>
+        <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
       <br><b>permissionlesstech</b><br><br>
       <div align="left">
@@ -336,48 +374,10 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/WordPress" title="WordPress"><img src="https://github.com/WordPress.png" width="42" alt="WordPress"></a>
-      <br><b>WordPress</b><br><br>
-      <div align="left">
-        <a href="https://github.com/WordPress/plugin-check/pull/1488">#1488</a> Count script dependencies toward the enqueued size total (#74)<br>
-        <a href="https://github.com/WordPress/wordpress-develop/pull/12595">#12595</a> Options, Meta APIs: Avoid caching options as nonexistent after database errors.<br>
-        <a href="https://github.com/WordPress/wordpress-develop/pull/12596">#12596</a> Upgrade/Install: Retry an update check whose result could not be stored.<br>
-        <a href="https://github.com/WordPress/gutenberg/pull/79653">#79653</a> Theme.json schema: allow spacing margin/padding to be defined as sides<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
-      <br><b>meta</b><br><br>
-      <div align="left">
-        <a href="https://github.com/meta/stylex/pull/1964">#1964</a> Sort rem/em media-query breakpoints within their unit<br>
-        <a href="https://github.com/meta/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
-        <a href="https://github.com/meta/docusaurus/pull/12279">#12279</a> fix(theme-classic): improve code block Copy/word-wrap button contrast (#10821)<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
       <a href="https://github.com/anthropics" title="anthropics"><img src="https://github.com/anthropics.png" width="42" alt="anthropics"></a>
       <br><b>anthropics</b><br><br>
       <div align="left">
         <a href="https://github.com/anthropics/claude-code-action/pull/1762">#1762</a> fix(base-action): don't reject successful runs when num_turns exceeds maxTurns<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
-      <br><b>PaperMC</b><br><br>
-      <div align="left">
-        <a href="https://github.com/PaperMC/Paper/pull/14060">#14060</a> Fix incorrect InventoryClickEvent slots when clicking your own inventory during invsee<br>
-        <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
-      <br><b>Google</b><br><br>
-      <div align="left">
-        <a href="https://github.com/google/clasp/pull/1159">#1159</a> fix(push): error on non-existent filePushOrder entries instead of failing silently<br>
       </div>
     </td>
   </tr>
