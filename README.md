@@ -315,14 +315,11 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
-      <br><b>wp-media</b><br><br>
+      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
+      <br><b>permissionlesstech</b><br><br>
       <div align="left">
-        <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
-        <a href="https://github.com/wp-media/wp-rocket/pull/9226">#9226</a> Fixes #9223: lazyload background CSS 404 for folders with spaces or non-ASCII names<br>
-        <a href="https://github.com/wp-media/wp-rocket/pull/9225">#9225</a> Fixes #9191: store subsetted (text=) Google Fonts in separate local files<br>
-        <a href="https://github.com/wp-media/wp-rocket/pull/9224">#9224</a> Fixes #9123: purge cache for non-Latin URLs with uppercase percent-encoding<br>
-        <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
+        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
       </div>
     </td>
     <td align="center" valign="top" width="50%">
@@ -338,12 +335,25 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://github.com/wp-media" title="wp-media"><img src="https://github.com/wp-media.png" width="42" alt="wp-media"></a>
+      <br><b>wp-media</b><br><br>
+      <div align="left">
+        <a href="https://github.com/wp-media/wp-rocket/pull/8655">#8655</a> Fixes #7523: defer license-notice translation to avoid _load_textdomain_just_in_time notice<br>
+        <a href="https://github.com/wp-media/wp-rocket/pull/9226">#9226</a> Fixes #9223: lazyload background CSS 404 for folders with spaces or non-ASCII names<br>
+        <a href="https://github.com/wp-media/wp-rocket/pull/9225">#9225</a> Fixes #9191: store subsetted (text=) Google Fonts in separate local files<br>
+        <a href="https://github.com/wp-media/wp-rocket/pull/9224">#9224</a> Fixes #9123: purge cache for non-Latin URLs with uppercase percent-encoding<br>
+        <a href="https://github.com/wp-media/backwpup/pull/242">#242</a> Fix &quot;Next Run&quot; showing 1970 for unscheduled jobs on non-UTC sites<br>
+      </div>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/google" title="Google"><img src="https://github.com/google.png" width="42" alt="Google"></a>
       <br><b>Google</b><br><br>
       <div align="left">
         <a href="https://github.com/google/clasp/pull/1159">#1159</a> fix(push): error on non-existent filePushOrder entries instead of failing silently<br>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/meta" title="meta"><img src="https://github.com/meta.png" width="42" alt="meta"></a>
       <br><b>meta</b><br><br>
@@ -353,22 +363,12 @@
         <a href="https://github.com/meta/astryx/pull/4989">#4989</a> fix(cli): skip non-codemod modules during integration codemod discovery (#4975)<br>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/PaperMC" title="PaperMC"><img src="https://github.com/PaperMC.png" width="42" alt="PaperMC"></a>
       <br><b>PaperMC</b><br><br>
       <div align="left">
         <a href="https://github.com/PaperMC/Paper/pull/14060">#14060</a> Fix incorrect InventoryClickEvent slots when clicking your own inventory during invsee<br>
         <a href="https://github.com/PaperMC/Paper/pull/14111">#14111</a> Apply MerchantRecipe ingredient changes to the live offer immediately (#10708)<br>
-      </div>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/permissionlesstech" title="permissionlesstech"><img src="https://github.com/permissionlesstech.png" width="42" alt="permissionlesstech"></a>
-      <br><b>permissionlesstech</b><br><br>
-      <div align="left">
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/738">#738</a> fix: order mesh public/channel timeline by source packet timestamp (#525)<br>
-        <a href="https://github.com/permissionlesstech/bitchat-android/pull/739">#739</a> fix: reassemble BLE prepared/long writes so iOS messages over 157 chars arrive (#90)<br>
       </div>
     </td>
   </tr>
